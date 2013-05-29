@@ -22,6 +22,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
 import edu.umd.cs.guitar.exception.ApplicationConnectException;
+import edu.umd.cs.guitar.model.GObject;
 
 class BooleanResultReader extends MultiLineReceiver {
 	private final boolean[] mResult;
@@ -320,7 +321,7 @@ public class ADRApplication extends GApplication {
 		}
 	}
 
-	public void expandGUI(GComponent component,
+	public void expandGUI(GObject component,
 			LinkedList<ADRActivity> tempClosedWinStack,
 			LinkedList<ADRActivity> tempOpenedWinStack) {
 		Socket socket = null;

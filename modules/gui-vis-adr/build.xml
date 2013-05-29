@@ -36,8 +36,8 @@
                 <attribute name="Class-Path" value="."/>
             </manifest>
 
-            <fileset dir="${data}"/>
-            <fileset dir="${images}"/>
+            <!--<fileset dir="${data}"/>-->
+           <!-- <fileset dir="${images}"/>-->
             <fileset dir="${build}"/>
     </jar>
   </target>

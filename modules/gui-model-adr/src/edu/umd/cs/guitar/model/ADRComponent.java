@@ -209,6 +209,13 @@ public class ADRComponent extends GComponent implements Comparable<ADRComponent>
 	}
 
 	@Override
+	public List<PropertyType> getIDProperties()
+	{
+	List<PropertyType> retList = new ArrayList<PropertyType>();
+	return retList;
+	}
+	
+	@Override
 	public List<PropertyType> getGUIProperties() {
 		List<PropertyType> retList = new ArrayList<PropertyType>();
 		// Other properties

@@ -17,6 +17,7 @@ import edu.umd.cs.guitar.model.ADRComponent;
 import edu.umd.cs.guitar.model.ADRConstants;
 import edu.umd.cs.guitar.model.ADRWindow;
 import edu.umd.cs.guitar.model.GComponent;
+import edu.umd.cs.guitar.model.GObject;
 import edu.umd.cs.guitar.model.GWindow;
 import edu.umd.cs.guitar.util.GUITARLog;
 
@@ -100,7 +101,7 @@ public class ADRRipperMonitor extends GRipperMonitor {
 	}
 
 	@Override
-	public void expandGUI(GComponent component) {
+	public void expandGUI(GObject component) {
 		if (component == null)
 			return;
 
@@ -121,7 +122,7 @@ public class ADRRipperMonitor extends GRipperMonitor {
 	}
 
 	@Override
-	boolean isExpandable(GComponent component, GWindow window) {
+	public boolean isExpandable(GComponent component, GWindow window) {
 		return ((ADRComponent)component).isExpandable();
 	}
 
@@ -146,7 +147,7 @@ public class ADRRipperMonitor extends GRipperMonitor {
 	 */
    @Override
    public void
-   captureImage(GComponent component,
+   captureImage(GObject component,
                 String strFilePath)
    throws AWTException, IOException
    {

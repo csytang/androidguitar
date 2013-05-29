@@ -33,6 +33,7 @@ import java.util.Set;
 
 import edu.umd.cs.guitar.event.GEvent;
 
+import edu.umd.cs.guitar.model.GObject;
 import edu.umd.cs.guitar.model.GComponent;
 import edu.umd.cs.guitar.model.ADRApplication;
 import edu.umd.cs.guitar.model.ADRConstants;
@@ -165,7 +166,7 @@ public class ADRReplayerMonitor extends GReplayerMonitor {
     */
    @Override
    public void
-   writeMatchedComponents(GComponent replayComponent,
+   writeMatchedComponents(GObject replayComponent,
                           String sRipImageFilePath)
    throws IOException
    {

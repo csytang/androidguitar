@@ -12,13 +12,15 @@ import java.util.List;
 
 import edu.umd.cs.guitar.model.ADRComponent;
 import edu.umd.cs.guitar.model.GComponent;
+import edu.umd.cs.guitar.model.GObject;
+
 
 public class ADREditableTextHandler extends ADREventHandler {
 	
 	final static int port = 10737;
 
 	@Override
-	protected void performImpl(GComponent gComponent,
+	protected void performImpl(GObject gComponent,
 			Hashtable<String, List<String>> optionalData) {
 			Socket socket = null;
 			BufferedWriter out = null;
@@ -58,14 +60,14 @@ public class ADREditableTextHandler extends ADREventHandler {
 	}
 
 	@Override
-	protected void performImpl(GComponent gComponent, Object parameters,
+	protected void performImpl(GObject gComponent, Object parameters,
 			Hashtable<String, List<String>> optionalData) {
 		performImpl(gComponent, optionalData);
 	}
 
 	@Override
-	public boolean isSupportedBy(GComponent gComponent) {
-		String sClass = gComponent.getClassVal();
+	public boolean isSupportedBy(GObject gComponent) {
+		String sClass = "";//gComponent.getClassVal();
 		
 		if (sClass.equals("android.widget.EditText"))
 			return true;

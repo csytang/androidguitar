@@ -9,6 +9,7 @@ import java.io.OutputStreamWriter;
 import java.lang.reflect.Type;
 import java.net.InetSocketAddress;
 import java.net.Socket;
+import java.util.ArrayList;
 
 import edu.umd.cs.guitar.model.data.ComponentType;
 import edu.umd.cs.guitar.model.data.ContainerType;
@@ -49,6 +50,13 @@ public class ADRWindow extends GWindow implements Comparable<ADRWindow> {
 	@Override
 	public boolean equals(Object window) {
 		return this.window.title.equals(((ADRWindow)window).window.title);			
+	}
+	
+		@Override
+	public List<PropertyType> getIDProperties()
+	{
+	List<PropertyType> retList = new ArrayList<PropertyType>();
+	return retList;
 	}
 
 	@Override
