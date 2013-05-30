@@ -1,0 +1,378 @@
+[main] ERROR configuration.xml not found!!!
+[main] ERROR No configuration file. Using an empty one...
+[main] INFO  Number of root windows: 1
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *net.mandaria.tippytipper.activities.TippyTipper*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *CLEAR*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *DEL*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *0*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *7*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *8*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *9*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *1*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *2*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *3*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Calculate!*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*net.mandaria.tippytipper.activities.Total*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *net.mandaria.tippytipper.activities.Total*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *10%*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *15%*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *20%*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Round Down*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Round Up*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Split Bill*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*net.mandaria.tippytipper.activities.SplitBill*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *net.mandaria.tippytipper.activities.SplitBill*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *plus*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *minus*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable

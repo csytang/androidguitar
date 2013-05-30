@@ -1,0 +1,19 @@
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes.dex : \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument$2.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/BuildConfig.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/R$attr.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/R$string.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/Command.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/proxy/ADRView.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/proxy/ADRActivity.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument$4.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/Server.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/R$drawable.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/R.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument$1.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument$3.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/R$layout.class \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/libs/robotium.jar \
+/home/lovetostrike/android-sdk-linux/tools/support/annotations.jar \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/libs/gson-1.7.1.jar \

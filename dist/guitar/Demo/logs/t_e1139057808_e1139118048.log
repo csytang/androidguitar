@@ -1,0 +1,5 @@
+[main] INFO  Testcase: ./Demo/testcases/t_e1139057808_e1139118048.tst
+[main] INFO  Log file: ./Demo/logs/t_e1139057808_e1139118048.log
+[main] INFO  GUI state file: ./Demo/states/t_e1139057808_e1139118048.sta
+[main] INFO  ------ BEGIN TESTCASE -----
+[main] INFO  Connecting to application

@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:3
+-keep class edu.umd.cs.guitar.AUTInstrument { <init>(...); }
+
+# view AndroidManifest.xml #generated:5
+-keep class edu.umd.cs.guitar.Server { <init>(...); }
+
