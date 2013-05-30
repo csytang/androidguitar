@@ -14,6 +14,6 @@
 /home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument$1.class \
 /home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/AUTInstrument$3.class \
 /home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/classes/edu/umd/cs/guitar/R$layout.class \
-/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/libs/robotium.jar \
-/home/lovetostrike/android-sdk-linux/tools/support/annotations.jar \
-/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/libs/gson-1.7.1.jar \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/dexedLibs/robotium-0a781a56fb95ff39e979bb6031c202b0.jar \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/dexedLibs/annotations-9417e917f21002f7d65d41f53e4e6d9e.jar \
+/home/lovetostrike/Workspace/Programming/Java/softwareEngineering/androidguitar/dist/guitar/adr-aut/adr-server/bin/dexedLibs/gson-1.7.1-6bdd734b8957d6dc8d6e906c35647cf4.jar \

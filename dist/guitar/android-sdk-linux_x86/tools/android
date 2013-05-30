@@ -81,7 +81,7 @@ else
 fi
 
 # Get the current content of java.ext.dirs so that we can add to it instead of replacing
-javaExtDirs=`"${java_cmd}" -jar "C:/cygwin${frameworkdir}/archquery.jar" java.ext.dirs`
+javaExtDirs=`"${java_cmd}" -jar "${frameworkdir}/archquery.jar" java.ext.dirs`
 
 # Figure out the path to the swt.jar for the current architecture.
 # if ANDROID_SWT is defined, then just use this.
@@ -91,7 +91,7 @@ swtpath=""
 if [ -n "$ANDROID_SWT" ]; then
     swtpath="$ANDROID_SWT"
 else
-    vmarch=`"${java_cmd}" -jar "C:/cygwin${frameworkdir}/archquery.jar"`
+    vmarch=`"${java_cmd}" -jar "${frameworkdir}/archquery.jar"`
     if [ -n "$ANDROID_BUILD_TOP" ]; then
         osname=`uname -s | tr A-Z a-z`
         swtpath="${ANDROID_BUILD_TOP}/prebuilt/${osname}-${vmarch}/swt"

@@ -1,0 +1,12 @@
+[main] INFO  Testcase: ./Demo/testcases/t_e1139258440_e1139457608.tst
+[main] INFO  Log file: ./Demo/logs/t_e1139258440_e1139457608.log
+[main] INFO  GUI state file: ./Demo/states/t_e1139258440_e1139457608.sta
+[main] INFO  ------ BEGIN TESTCASE -----
+[main] INFO  Connecting to application
+[main] INFO  Application is connected.
+[main] INFO  Test monitor: edu.umd.cs.guitar.replayer.monitor.StateMonitor is initialized
+[main] INFO  Test monitor: edu.umd.cs.guitar.replayer.monitor.TimeMonitor is initialized
+[main] INFO  Testcase size 3 steps
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1139457608
+[Thread-1] INFO  Step Timer: TIMEOUT!!!

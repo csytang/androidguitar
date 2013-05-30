@@ -5,7 +5,7 @@
             <Attributes>
                 <Property>
                     <Name>Title</Name>
-                    <Value>net.mandaria.tippytipper.activities.SplitBill</Value>
+                    <Value>com.example.android.contactmanager.ContactAdder</Value>
                 </Property>
                 <Property>
                     <Name>Modal</Name>
@@ -43,7 +43,7 @@
                         </Property>
                         <Property>
                             <Name>ID</Name>
-                            <Value>w1139056328</Value>
+                            <Value>w1139285616</Value>
                         </Property>
                     </Attributes>
                     <Contents>
@@ -71,7 +71,7 @@
 </Property>
 <Property>
     <Name>ID</Name>
-    <Value>w1139036704</Value>
+    <Value>w1138982416</Value>
 </Property>
                             </Attributes>
                             <Contents>
@@ -79,7 +79,7 @@
     <Attributes>
         <Property>
             <Name>Class</Name>
-            <Value>android.widget.LinearLayout</Value>
+            <Value>android.widget.TableLayout</Value>
         </Property>
         <Property>
             <Name>Type</Name>
@@ -95,11 +95,11 @@
         </Property>
         <Property>
             <Name>Title</Name>
-            <Value>android.widget.LinearLayout</Value>
+            <Value>android.widget.TableLayout</Value>
         </Property>
         <Property>
             <Name>ID</Name>
-            <Value>w1139546800</Value>
+            <Value>w1139463536</Value>
         </Property>
     </Attributes>
     <Contents>
@@ -107,7 +107,7 @@
             <Attributes>
                 <Property>
                     <Name>Class</Name>
-                    <Value>android.widget.TableLayout</Value>
+                    <Value>android.widget.TableRow</Value>
                 </Property>
                 <Property>
                     <Name>Type</Name>
@@ -115,879 +115,27 @@
                 </Property>
                 <Property>
                     <Name>X</Name>
-                    <Value>8</Value>
+                    <Value>0</Value>
                 </Property>
                 <Property>
                     <Name>Y</Name>
-                    <Value>38</Value>
+                    <Value>140</Value>
                 </Property>
                 <Property>
                     <Name>Title</Name>
-                    <Value>android.widget.TableLayout</Value>
+                    <Value>android.widget.TableRow</Value>
                 </Property>
                 <Property>
                     <Name>ID</Name>
-                    <Value>w1139222760</Value>
+                    <Value>w1138951504</Value>
                 </Property>
             </Attributes>
             <Contents>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>76</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1138967600</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>76</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139227224</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>77</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Tip:</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139103256</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>76</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$789.38</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139304112</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>38</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139164880</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>38</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139378640</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>38</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$3,945.61</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139043136</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>39</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Subtotal:</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139217256</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
                 <Widget>
                     <Attributes>
                         <Property>
                             <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>220</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139195136</Value>
-                        </Property>
-                    </Attributes>
-                </Widget>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>230</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139197232</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.TextView</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>230</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>Number of people:</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139573048</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>267</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139197824</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>9</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>267</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139343224</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Container>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>9</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>275</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139546368</Value>
-        </Property>
-    </Attributes>
-    <Contents>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>148</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>275</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>plus</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1138990840</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>9</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>275</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>minus</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139436688</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.TextView</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>108</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>275</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>2</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139636528</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-    </Contents>
-</Container>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>114</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139445256</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>114</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139833664</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>114</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$0.01</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139301208</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>115</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Adjustment:</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139886256</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>76</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139480680</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.view.ViewStub</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>TERMINAL</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>76</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.view.ViewStub</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139381352</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Widget>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>16</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>160</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139903416</Value>
-                        </Property>
-                    </Attributes>
-                </Widget>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>170</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139971432</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>170</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139077600</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>170</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$4,735.00</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139299776</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>171</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Total:</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139856928</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-            </Contents>
-        </Container>
-    </Contents>
-</Container>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-            </Contents>
-        </Container>
-    </GUI>
-    <GUI>
-        <Window>
-            <Attributes>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>net.mandaria.tippytipper.activities.Total</Value>
-                </Property>
-                <Property>
-                    <Name>Modal</Name>
-                    <Value>false</Value>
-                </Property>
-                <Property>
-                    <Name>Rootwindow</Name>
-                    <Value>false</Value>
-                </Property>
-            </Attributes>
-        </Window>
-        <Container>
-            <Contents>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.FrameLayout</Value>
+                            <Value>android.widget.TextView</Value>
                         </Property>
                         <Property>
                             <Name>Type</Name>
@@ -999,79 +147,25 @@
                         </Property>
                         <Property>
                             <Name>Y</Name>
-                            <Value>38</Value>
+                            <Value>140</Value>
                         </Property>
                         <Property>
                             <Name>Title</Name>
-                            <Value>android.widget.FrameLayout</Value>
+                            <Value>Contact Phone</Value>
                         </Property>
                         <Property>
                             <Name>ID</Name>
-                            <Value>w1139857576</Value>
+                            <Value>w1138952088</Value>
                         </Property>
                     </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.ScrollView</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>0</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>38</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.ScrollView</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139553344</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Container>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.LinearLayout</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>0</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>38</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>android.widget.LinearLayout</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139554832</Value>
-        </Property>
-    </Attributes>
-    <Contents>
+                </Widget>
+            </Contents>
+        </Container>
         <Container>
             <Attributes>
                 <Property>
                     <Name>Class</Name>
-                    <Value>android.widget.TableLayout</Value>
+                    <Value>android.widget.TableRow</Value>
                 </Property>
                 <Property>
                     <Name>Type</Name>
@@ -1079,7 +173,272 @@
                 </Property>
                 <Property>
                     <Name>X</Name>
-                    <Value>8</Value>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>53</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139120344</Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Widget>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.Spinner</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>53</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.Spinner</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1138966784</Value>
+                        </Property>
+                    </Attributes>
+                </Widget>
+            </Contents>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>242</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139257792</Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Widget>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.Button</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>242</Value>
+                        </Property>
+                        <Property>
+                            <Name>ReplayableAction</Name>
+                            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>Save</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139258440</Value>
+                        </Property>
+                    </Attributes>
+                </Widget>
+            </Contents>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>104</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139260648</Value>
+                </Property>
+            </Attributes>
+            <Contents/>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>89</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139284576</Value>
+                </Property>
+            </Attributes>
+            <Contents/>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>155</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139290456</Value>
+                </Property>
+            </Attributes>
+            <Contents/>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>191</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139341400</Value>
+                </Property>
+            </Attributes>
+            <Contents/>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>206</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139343176</Value>
+                </Property>
+            </Attributes>
+            <Contents/>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableRow</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>0</Value>
                 </Property>
                 <Property>
                     <Name>Y</Name>
@@ -1087,1241 +446,14 @@
                 </Property>
                 <Property>
                     <Name>Title</Name>
-                    <Value>android.widget.TableLayout</Value>
+                    <Value>android.widget.TableRow</Value>
                 </Property>
                 <Property>
                     <Name>ID</Name>
-                    <Value>w1139555912</Value>
+                    <Value>w1139426192</Value>
                 </Property>
             </Attributes>
-            <Contents>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>76</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139544856</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.view.ViewStub</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>TERMINAL</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>76</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.view.ViewStub</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139983640</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>38</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139557928</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>38</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139541824</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>39</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Subtotal:</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139542656</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>38</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$7,891.23</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139543792</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>192</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139890056</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>192</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139890640</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Container>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>8</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>192</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139891696</Value>
-        </Property>
-    </Attributes>
-    <Contents>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.TextView</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>8</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>204</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>Tip Percentage:</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139892280</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.TextView</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>148</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>192</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>0%</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139893480</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-    </Contents>
-</Container>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>229</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139894648</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.SeekBar</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>TERMINAL</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>229</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.SeekBar</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139895840</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>251</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139908080</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>251</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139908664</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Container>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>8</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>251</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139909720</Value>
-        </Property>
-    </Attributes>
-    <Contents>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.TextView</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>31</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>251</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>0%</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139910304</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.TextView</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>118</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>251</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>40%</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139911416</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-    </Contents>
-</Container>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>271</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139912592</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>9</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>271</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139913176</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Container>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>9</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>271</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139914232</Value>
-        </Property>
-    </Attributes>
-    <Contents>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>9</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>271</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>10%</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139914880</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>83</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>271</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>15%</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139917104</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>157</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>271</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>20%</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139919264</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-    </Contents>
-</Container>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>307</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139921424</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>307</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.TableLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139922008</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Container>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>8</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>307</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>android.widget.TableRow</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139923064</Value>
-        </Property>
-    </Attributes>
-    <Contents>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>8</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>307</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>Round Down</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139923648</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.Button</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>130</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>307</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>Round Up</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139925816</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-    </Contents>
-</Container>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>343</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139927984</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>343</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>Split Bill</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139928568</Value>
-</Property>
-<Property>
-    <Name>Invokelist</Name>
-    <Value>net.mandaria.tippytipper.activities.SplitBill</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>76</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139983992</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>76</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139984576</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>77</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Tip (20.0%):</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139985168</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>76</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$1,578.77</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139986296</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Widget>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>16</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>122</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139987360</Value>
-                        </Property>
-                    </Attributes>
-                </Widget>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>132</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139988040</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Container>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>36</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>132</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>android.widget.LinearLayout</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139988624</Value>
-</Property>
-                            </Attributes>
-                            <Contents>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>36</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>133</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>Total:</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139989216</Value>
-        </Property>
-    </Attributes>
-</Widget>
-<Widget>
-    <Attributes>
-        <Property>
-            <Name>Class</Name>
-            <Value>android.widget.TextView</Value>
-        </Property>
-        <Property>
-            <Name>Type</Name>
-            <Value>SYSTEM INTERACTION</Value>
-        </Property>
-        <Property>
-            <Name>X</Name>
-            <Value>119</Value>
-        </Property>
-        <Property>
-            <Name>Y</Name>
-            <Value>132</Value>
-        </Property>
-        <Property>
-            <Name>Title</Name>
-            <Value>$9,470.00</Value>
-        </Property>
-        <Property>
-            <Name>ID</Name>
-            <Value>w1139990344</Value>
-        </Property>
-    </Attributes>
-</Widget>
-                            </Contents>
-                        </Container>
-                    </Contents>
-                </Container>
-                <Widget>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>182</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.TableRow</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139991408</Value>
-                        </Property>
-                    </Attributes>
-                </Widget>
-            </Contents>
+            <Contents/>
         </Container>
     </Contents>
 </Container>
@@ -2337,7 +469,7 @@
             <Attributes>
                 <Property>
                     <Name>Title</Name>
-                    <Value>net.mandaria.tippytipper.activities.TippyTipper</Value>
+                    <Value>com.example.android.contactmanager.ContactManager</Value>
                 </Property>
                 <Property>
                     <Name>Modal</Name>
@@ -2375,7 +507,7 @@
                         </Property>
                         <Property>
                             <Name>ID</Name>
-                            <Value>w1139057200</Value>
+                            <Value>w1139445552</Value>
                         </Property>
                     </Attributes>
                     <Contents>
@@ -2383,7 +515,7 @@
                             <Attributes>
 <Property>
     <Name>Class</Name>
-    <Value>android.widget.ScrollView</Value>
+    <Value>android.widget.LinearLayout</Value>
 </Property>
 <Property>
     <Name>Type</Name>
@@ -2399,19 +531,19 @@
 </Property>
 <Property>
     <Name>Title</Name>
-    <Value>android.widget.ScrollView</Value>
+    <Value>android.widget.LinearLayout</Value>
 </Property>
 <Property>
     <Name>ID</Name>
-    <Value>w1139071008</Value>
+    <Value>w1139446808</Value>
 </Property>
                             </Attributes>
                             <Contents>
-<Container>
+<Widget>
     <Attributes>
         <Property>
             <Name>Class</Name>
-            <Value>android.widget.LinearLayout</Value>
+            <Value>android.widget.ListView</Value>
         </Property>
         <Property>
             <Name>Type</Name>
@@ -2427,676 +559,78 @@
         </Property>
         <Property>
             <Name>Title</Name>
-            <Value>android.widget.LinearLayout</Value>
+            <Value>android.widget.ListView</Value>
         </Property>
         <Property>
             <Name>ID</Name>
-            <Value>w1139123864</Value>
+            <Value>w1139447960</Value>
         </Property>
     </Attributes>
-    <Contents>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.TextView</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>8</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>38</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>Enter bill amount:</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139117008</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Widget>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.EditText</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>TERMINAL</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>8</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>75</Value>
-                </Property>
-                <Property>
-                    <Name>ReplayableAction</Name>
-                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>$0.00</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139118048</Value>
-                </Property>
-            </Attributes>
-        </Widget>
-        <Container>
-            <Attributes>
-                <Property>
-                    <Name>Class</Name>
-                    <Value>android.widget.LinearLayout</Value>
-                </Property>
-                <Property>
-                    <Name>Type</Name>
-                    <Value>SYSTEM INTERACTION</Value>
-                </Property>
-                <Property>
-                    <Name>X</Name>
-                    <Value>8</Value>
-                </Property>
-                <Property>
-                    <Name>Y</Name>
-                    <Value>131</Value>
-                </Property>
-                <Property>
-                    <Name>Title</Name>
-                    <Value>android.widget.LinearLayout</Value>
-                </Property>
-                <Property>
-                    <Name>ID</Name>
-                    <Value>w1139149680</Value>
-                </Property>
-            </Attributes>
-            <Contents>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>257</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139024960</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>161</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>260</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>CLEAR</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139057808</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>11</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>260</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>DEL</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139089600</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>86</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>260</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>0</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139091800</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>131</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139028296</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>11</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>134</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>7</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139118888</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>86</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>134</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>8</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139321800</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>161</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>134</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>9</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139437520</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>215</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139062904</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>11</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>218</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>1</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139080168</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>86</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>218</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>2</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139086808</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>161</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>218</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>3</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139088856</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>299</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139119688</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>11</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>302</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>Calculate!</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139115424</Value>
-</Property>
-<Property>
-    <Name>Invokelist</Name>
-    <Value>net.mandaria.tippytipper.activities.Total</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-                <Container>
-                    <Attributes>
-                        <Property>
-                            <Name>Class</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>Type</Name>
-                            <Value>SYSTEM INTERACTION</Value>
-                        </Property>
-                        <Property>
-                            <Name>X</Name>
-                            <Value>8</Value>
-                        </Property>
-                        <Property>
-                            <Name>Y</Name>
-                            <Value>173</Value>
-                        </Property>
-                        <Property>
-                            <Name>Title</Name>
-                            <Value>android.widget.LinearLayout</Value>
-                        </Property>
-                        <Property>
-                            <Name>ID</Name>
-                            <Value>w1139441352</Value>
-                        </Property>
-                    </Attributes>
-                    <Contents>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>161</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>176</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>6</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139061472</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>11</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>176</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>4</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139438536</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                        <Widget>
-                            <Attributes>
-<Property>
-    <Name>Class</Name>
-    <Value>android.widget.Button</Value>
-</Property>
-<Property>
-    <Name>Type</Name>
-    <Value>SYSTEM INTERACTION</Value>
-</Property>
-<Property>
-    <Name>X</Name>
-    <Value>86</Value>
-</Property>
-<Property>
-    <Name>Y</Name>
-    <Value>176</Value>
-</Property>
-<Property>
-    <Name>ReplayableAction</Name>
-    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
-</Property>
-<Property>
-    <Name>Title</Name>
-    <Value>5</Value>
-</Property>
-<Property>
-    <Name>ID</Name>
-    <Value>w1139442672</Value>
-</Property>
-                            </Attributes>
-                        </Widget>
-                    </Contents>
-                </Container>
-            </Contents>
-        </Container>
-    </Contents>
-</Container>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.CheckBox</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>360</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Show Invisible Contacts (Only)</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139453776</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>396</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Add Contact</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139457608</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>com.example.android.contactmanager.ContactAdder</Value>
+        </Property>
+    </Attributes>
+</Widget>
                             </Contents>
                         </Container>
                     </Contents>
