@@ -320,6 +320,9 @@ do
     rm -rf $logs_dir/$test_name.log
 
     cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to $rip_second -so $rip_second -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
+    
+    # Changes
+    cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to 60000000 -so 10000000 -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
 
     # adding application arguments if needed 
     if [ ! -z $args ] 
@@ -409,6 +412,9 @@ do
         rm -rf $logs_dir/$test_name.log
 
         cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to $rip_second -so $rip_second -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
+        
+            # Changes
+    cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to 60000000 -so 10000000 -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
 
         # adding application arguments if needed 
         if [ ! -z $args ] 
