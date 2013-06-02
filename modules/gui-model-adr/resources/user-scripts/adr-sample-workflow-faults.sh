@@ -179,22 +179,35 @@ if [ ! -f ./bin/no_fault/aut-resigned.apk ] || [ ! -f ./bin/no_fault/coverage.em
     ../resign.sh ./bin/*-instrumented.apk ./bin/aut-resigned.apk
     mkdir -p ./bin/no_fault
     cp ./bin/aut-resigned.apk ./bin/no_fault
-    cp coverage.em ./bin/no_fault
+    # Changes, added ./bin/ to cp
+    cp ./bin/coverage.em ./bin/no_fault
+    # End Changes
 fi
+# Changes
+echo -e "Current Dir:"
+pwd
+# End Changes
 while read line
 do
     filename=${line##*/}
     pathname=${line%/*}
     original_path=`find src -name $filename`
     if [ ! -f ./bin/$pathname/aut-resigned.apk ] || [ ! -f ./bin/$pathname/coverage.em ]; then
+    	# Pyae Changed
+    	echo "either not found ./bin/$pathname/aut-resigned.apk or ./bin/$pathname/coverage.em"
         echo "==> Fault seeded source file: $line"
         cp $line $original_path
         ant instrument
         ../resign.sh ./bin/*-instrumented.apk ./bin/aut-resigned.apk
         mkdir -p ./bin/$pathname
         cp ./bin/aut-resigned.apk ./bin/$pathname
-        cp coverage.em ./bin/$pathname
+        # Change, added ./bin/ to cp
+        pwd
+        echo -e "added coverage.em to ./bin/no_fault"
+        cp ./bin/coverage.em ./bin/$pathname
+        # End Changes
     fi
+ 
 done < <( find $4 -name *.java )
 rm -rf src
 mv src.orig src
@@ -287,7 +300,8 @@ echo $cmd
 eval $cmd 
 
 testcase_num=`find Demo/testcases/*.tst | wc -l`
-#testcase_num=5
+# Pyae Changed
+testcase_num=2
 rm -rf `find adr-aut/$aut_directory -name '*.res'`
 rm -rf `find adr-aut/$aut_directory -name '*.ec'`
 rm -rf `find adr-aut/$aut_directory -name '*.log'`

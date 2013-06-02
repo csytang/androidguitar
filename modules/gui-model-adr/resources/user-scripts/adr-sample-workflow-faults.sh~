@@ -1,9 +1,25 @@
 #!/bin/bash
 
-#----------------------------------------------------------------------------------------------------
-# Run GUITAR Ripper
-#---------------------------------------------------------------------------------------------------- 
+# This is a sample script to demonstrate 
+# GUITAR general workflow 
+# The output can be found in Demo directory  
 
+#------------------------
+# application directory 
+# aut_dir=$SCRIPT_DIR/jfc-aut/RadioButton/
+
+# application classpath 
+# aut_classpath=$aut_dir/bin
+
+# application main class
+# mainclass="Project"
+
+# Change the following 2 lines for the classpath and the main class of your 
+# application. The example is for CrosswordSage, another real world example
+# in the jfc-aut directory (http://crosswordsage.sourceforge.net/)
+
+#aut_classpath=$SCRIPT_DIR/jfc-aut/CrosswordSage/bin:$SCRIPT_DIR/jfc-aut/CrosswordSage/bin/CrosswordSage.jar
+#mainclass="crosswordsage.MainScreen"
 
 #------------------------
 # Sample command line arguments 
@@ -165,25 +181,32 @@ if [ ! -f ./bin/no_fault/aut-resigned.apk ] || [ ! -f ./bin/no_fault/coverage.em
     cp ./bin/aut-resigned.apk ./bin/no_fault
     cp coverage.em ./bin/no_fault
 fi
-
-<<faults
+# Changes
+echo -e "Current Dir:"
+pwd
+# End Changes
 while read line
 do
     filename=${line##*/}
     pathname=${line%/*}
     original_path=`find src -name $filename`
     if [ ! -f ./bin/$pathname/aut-resigned.apk ] || [ ! -f ./bin/$pathname/coverage.em ]; then
+    	# Pyae Changed
+    	echo "either not found ./bin/$pathname/aut-resigned.apk or ./bin/$pathname/coverage.em"
         echo "==> Fault seeded source file: $line"
         cp $line $original_path
         ant instrument
         ../resign.sh ./bin/*-instrumented.apk ./bin/aut-resigned.apk
         mkdir -p ./bin/$pathname
         cp ./bin/aut-resigned.apk ./bin/$pathname
-        cp coverage.em ./bin/$pathname
+        # Change, added ./bin/ to cp
+        pwd
+        echo -e "added coverage.em to ./bin/no_fault"
+        cp ./bin/coverage.em ./bin/$pathname
+        # End Changes
     fi
+ 
 done < <( find $4 -name *.java )
-faults
-
 rm -rf src
 mv src.orig src
 rm -rf bin/*.apk
@@ -191,10 +214,7 @@ cd ../../
 
 # Run an emulator process
 echo -e "==> Run the created emulator.\n"
-xvfb-run -a emulator -avd ADRGuitarTest -cpu-delay 0 -netfast $5 -no-snapshot-save &
-
-touch debug.txt
-adb logcat > debug.txt &
+emulator -avd ADRGuitarTest -cpu-delay 0 -netfast $5 -no-snapshot-save &
 
 # Install ADR-Server
 echo "==> Install ADR-Server."
@@ -214,15 +234,11 @@ do
         echo "  The emulator is booting."
         echo "  We will retry."
         adb kill-server
-	adb devices
         adb start-server
     fi
     sleep 10
 done
 echo -e "\n"
-
-touch debug.txt
-adb logcat > debug.txt &
 
 apk_file=`find adr-aut/$aut_directory -name *.apk | sed -n '/no_fault/p'`
 
@@ -241,18 +257,15 @@ do
 
     if $cont ; then
         echo "    The emulator is booting."
-	adb devices
         echo "    We will retry."
     fi
     sleep 10
 done
 echo -e "\n"
 
-touch debug.txt
-adb logcat > debug.txt &
 echo "About to rip the application " 
 #read -p "Press ENTER to continue..."
-cmd="$SCRIPT_DIR/adr-ripper.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -l $log_file -m"
+cmd="$SCRIPT_DIR/adr-ripper.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -l $log_file"
 
 # Adding application arguments if needed 
 if [ ! -z $args ] 
@@ -261,9 +274,8 @@ then
 fi
 echo $cmd
 eval $cmd
-
-rip_minute=`awk '/Elapsed:/ { print $7 }' $log_file | sed 's/^0*//'`
-rip_second=`awk '/Elapsed:/ { print $9 }' $log_file | sed -n 's/:/ /p' | sed 's/^0*//'`
+rip_minute=`awk '$7=="Elapsed:" { print $10 }' $log_file | sed 's/^0*//'`
+rip_second=`awk '$7=="Elapsed:" { print $12}' $log_file | sed -n 's/:/ /p' | sed 's/^0*//'`
 
 let rip_second=rip_minute*60+rip_second
 let rip_second=rip_second*1000*3
@@ -276,117 +288,33 @@ cmd="$SCRIPT_DIR/gui2efg.sh -g $gui_file -e $efg_file"
 echo $cmd
 eval $cmd
 
+# Generating test cases
+echo ""
+echo "About to generate test cases to cover all possible $tc_length-way event interactions" 
+#read -p "Press ENTER to continue..."
+rm -rf $testcases_dir
+cmd="$SCRIPT_DIR/tc-gen-sq.sh -e $efg_file -l $tc_length -m 0 -d $testcases_dir"
+echo $cmd
+eval $cmd 
 
-#----------------------------------------------------------------------------------------------------
-# Run IntentFinder
-#----------------------------------------------------------------------------------------------------
-
-# Assume that all AUTs to be tested will be in guitar/example-aut/adr-aut
-
-#compile and set classpath
-#javac -cp ../../../IntentFinder/lib/gson-1.7.1.jar ../../../IntentFinder/src/*.java
-#export CLASSPATH=../../../IntentFinder/src:../../../IntentFinder/lib/gson-1.7.1.jar
-
-#changed directories so that IntentFinder pointed to testcase-generator-intents
-
-javac -cp ../../lib/platforms/adr/gson-1.7.1.jar testcase-generator-intents/src/*.java
-export CLASSPATH=testcase-generator-intents/src:../../lib/platforms/adr/gson-1.7.1.jar
-
-# parse the app's source code for explicit intents
-#java ExplicitIntent $1/$2/*.java
-
-#find $1/src -name *.java > files.txt
-find ../../example-aut/adr-aut/$1/src -name *.java > files.txt
-javaFiles=""
-
-while read line
-do
-    javaFiles="$javaFiles $line "
-    #echo $line
-done < files.txt
-
-rm files.txt
-
-java ExplicitIntent $javaFiles
-
-mkdir ../../../IntentOutputs
-# move out.txt to ../../../IntentOutputs/out.txt
-mv out.txt ../../../IntentOutputs
-
-# copy the AndroidManifest.xml into src folder 
-cp ../../example-aut/adr-aut/$1/AndroidManifest.xml testcase-generator-intents/src
-
-cd testcase-generator-intents/src
-
-# parse the app's AndroidManifest.xml 
-ruby ParseManifest.rb AndroidManifest.xml
-
-# move parsedManifest.txt to IntentOutputs folder
-mv parsedManifest.txt ../../../../../IntentOutputs   #now we're in androidintents-code
- 
-cd ../../
-
-# get all possible sequences of intents
-#java TestCaseGeneratorMain
-java TestCaseGeneratorMain ../../../IntentOutputs/out.txt ../../../IntentOutputs/parsedManifest.txt ../../../IntentOutputs/sequence.txt
-
-# clean up the folder
-rm testcase-generator-intents/src/AndroidManifest.xml
-
-rm ../../../IntentOutputs/out.txt 
-rm ../../../IntentOutputs/parsedManifest.txt 
-#mv ../IntentOutputs/sequence.txt ../IntentOutputs/sequence_$3.txt
-mv ../../../IntentOutputs/sequence.txt ../../../IntentOutputs/sequence_$1.txt
-
-#----------------------------------------------------------------------------------------------------
-# Create GUITAR testcases (.tst files) based on IntentFinder output and Demo.GUI (from the Ripper)
-#----------------------------------------------------------------------------------------------------
-
-# go to IntentFinder folder
-cd testcase-generator-intents
-
-# copy Demo.GUI to this folder
-cp ../Demo/Demo.GUI ./Demo.GUI
-
-# parse Demo.GUI and generate .tst files
-ruby tstGenerator.rb ../../../../IntentOutputs/sequence_$1.txt    #don't forget to fix the IntentOutputs later
-
-# move the .tst files to guitar/dist/guitar/Demo/testcases folder
-mv ./*.tst ../Demo/testcases
-
-# remove Demo.GUI from this folder
-rm Demo.GUI
-
-# go back to where we were
-cd ..
-
-
-#----------------------------------------------------------------------------------------------------
-# Replay testcases
-#----------------------------------------------------------------------------------------------------
+testcase_num=`find Demo/testcases/*.tst | wc -l`
+# Pyae Changed
+testcase_num=2
+rm -rf `find adr-aut/$aut_directory -name '*.res'`
+rm -rf `find adr-aut/$aut_directory -name '*.ec'`
+rm -rf `find adr-aut/$aut_directory -name '*.log'`
 
 # Replaying generated test cases
-#echo ""
+echo ""
 echo "About to replay test case(s)" 
-#echo "Enter the number of test case(s): $testcase_num"
-#echo "Enter the testcase you want to test!  Then press [enter]: "
-#read testcase
-#testcase=./Demo/testcases/$testcase
-#echo "You have chosen:  $testcase"
-#rip_second=3000
+echo "Enter the number of test case(s): $testcase_num"
 
-#testcase_num=`find Demo/testcases/*.tst | wc -l`
-#testcase_num=2
-
-#testcase_num
-for testcase in `find $testcases_dir -name "*.tst"`  
+for testcase in `find $testcases_dir -name "*.tst"| head -n$testcase_num`  
 do
     # getting test name 
     test_name=`basename $testcase`
     test_name=${test_name%.*}
-    
-    
-    echo "Remember that in this script our goal is to re-run all the test cases"
+
     rm -rf $logs_dir/$test_name.log
 
     cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to $rip_second -so $rip_second -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
@@ -400,23 +328,9 @@ do
     if [ -f adr-aut/$aut_directory/bin/no_fault/$test_name.res ]; then
         echo "This testcase was already run so we will skip"
     else
-
-	 #create new name based on the test being done
-	    ls
-	    echo "REACHED!!!!!!!!!!!!!!!!!!!"
-	    [[ -d logs ]] && echo "bla" || mkdir logs
-	    dumpName="dump"
-	    txt=".txt"
-	    newName=logs/${dumpName}_${test_name}${txt}
-	    [[ -f "$newName" ]] && rm "$newName" || echo "making new file"
-	    touch $newName
-	    adb logcat -v time > $newName &
-
         echo $cmd 
         eval $cmd
 
-#taken out just in case
-<<COVERAGE
         while [ ! -f adr-aut/$aut_directory/bin/no_fault/$test_name.ec ]
         do
             adb pull /data/data/$aut_package/files/coverage.ec adr-aut/$aut_directory/bin/no_fault/$test_name.ec
@@ -434,42 +348,107 @@ do
         mv coverage.xml adr-aut/$aut_directory/bin/no_fault/$test_name/
         cp ${logs_dir}/${test_name}.log adr-aut/$aut_directory/bin/no_fault/
         cp $states_dir/$test_name.sta adr-aut/$aut_directory/bin/no_fault/
-
-	##########################################################################################
-COVERAGE
-	    #adding parser here, after the test on the emulator has been
-	    #successfully run
-	    # added ARGV[1] to parser (application name)
-	    app_name=""
-	    if [ "$aut_directory" = "CountdownTimer" ]; then
-		app_name="Countdown"
-	    elif [ "$aut_directory" = "HelloAUT" ]; then
-		app_name="com.aut"
-	    else
-	    	app_name="$aut_directory"
-	    fi
-
-	    ruby parser.rb $newName $app_name	#added $app_name
-	    #ruby parser.rb $newName
-
-	    #filteredLog
-	    filtered=filteredLog_${test_name}.txt
-	    touch $filtered
-	    egrep -i "intent|edu.umd.cs.guitar|\/$app_name" $newName > $filtered
-	    
-	    #rename output to masterLog + test_name
-	    newName=logs/masterLog_${test_name}.txt
-	    cp masterLog.txt $newName
-	    rm masterLog.txt
-	    #cp $newName ../../../$newName
     fi
 done
 
-#copy the masterlogs into the IntentsOutputs folder
-mkdir ../../../IntentOutputs/IntentsAnalyzer
-cp testcase-generator-intents/resources/IntentsAnalyzer/*.rb ../../../IntentOutputs/IntentsAnalyzer
+while read line
+do
+    pathname=${line%/*}
+    tested=1
 
-cp -r logs/masterLog_*.txt ../../../IntentOutputs
+    # Check this apk was already tested
+    for testcase in `find $testcases_dir -name "*.tst"| head -n$testcase_num`  
+    do
+        # getting test name 
+        test_name=`basename $testcase`
+        test_name=${test_name%.*}
+
+        if [ ! -f $pathname/$test_name.res ]; then
+            tested=0
+            break
+       	fi
+    done
+
+    [ $tested -eq 1 ] && continue
+
+    # Install AUT
+    echo "==> Install AUT: $line"
+    cont=true
+    while $cont ;
+    do
+        adb uninstall $aut_package
+        while read line
+        do
+            found=$(echo $line | grep Success)
+            if [ "$found" ]; then
+                cont=false
+            fi
+        done < <( adb install $line )
+
+        if $cont ; then
+            echo "    The emulator is booting."
+            echo "    We will retry."
+        fi
+        sleep 10
+    done
+    echo -e "\n"
+
+    # Replaying generated test cases
+    echo ""
+    echo "About to replay test case(s)" 
+    echo "Enter the number of test case(s): $testcase_num"
+
+    for testcase in `find $testcases_dir -name "*.tst"| head -n$testcase_num`  
+    do
+        # getting test name 
+        test_name=`basename $testcase`
+        test_name=${test_name%.*}
+
+        rm -rf $logs_dir/$test_name.log
+
+        cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to $rip_second -so $rip_second -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
+
+        # adding application arguments if needed 
+        if [ ! -z $args ] 
+        then 
+            cmd="$cmd -a \"$args\" " 
+        fi
+
+        if [ -f $pathname/$test_name.res ]; then
+            echo "This testcase was already run so we will skip"
+        else
+            echo $cmd 
+            eval $cmd
+
+            cp $states_dir/$test_name.sta $pathname/
+	    rm -rf $states_dir/$test_name.sta
+            fault_found=`cat ${logs_dir}/${test_name}.log | grep "NORMALLY TERMINATED" | sed -e 's;^.* ;;'`
+	    fault_found2=`diff  $pathname/$test_name.sta adr-aut/$aut_directory/bin/no_fault/$test_name.sta`
+            if [[ $fault_found ]] && [[ ! $fault_found2 ]]; then
+                echo success > $pathname/$test_name.res
+
+                while [ ! -f $pathname/$test_name.ec ]
+                do
+                    adb pull /data/data/$aut_package/files/coverage.ec $pathname/$test_name.ec
+                    sleep 2
+                done
+
+                emma_dir=`which android`
+                emma_dir=${emma_dir%/*}
+                emma_dir=${emma_dir}/lib/emma.jar
+                java -cp $emma_dir emma report -r xml -in $pathname/coverage.em,$pathname/$test_name.ec
+                java -cp $emma_dir emma report -r html -in $pathname/coverage.em,$pathname/$test_name.ec
+                mv coverage $test_name
+                rm -rf $pathname/$test_name
+                mv -f $test_name -t $pathname/
+                mv coverage.xml $pathname/$test_name/
+                cp ${logs_dir}/${test_name}.log $pathname/
+            else
+               echo fail > $pathname/$test_name.res
+            fi
+        fi
+    done
+done < <( find adr-aut/$aut_directory/bin/result -name *.apk | sed '/original/d' )
 
 python cv_rpt.py adr-aut/$aut_directory/bin/no_fault
 python ft_rpt.py adr-aut/$aut_directory/bin/result
@@ -479,9 +458,3 @@ pkill emulator-arm
 killall emulator-arm
 android delete avd -n ADRGuitarTest
 export PATH=${original_PATH}
-
-cd ../../../IntentsOutputs/IntentsAnalyzer
-
-mkdir OUTPUT
-
-echo "You can now run the IntentsAnalyzer by going into the IntentsOutputs folder, and then following the directions on the IntentsWiki"

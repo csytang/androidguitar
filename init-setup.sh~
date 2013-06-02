@@ -1,0 +1,6 @@
+#! /bin/bash
+
+cd dist/guitar
+chmod +x `find . -name '*.sh'`
+
+
