@@ -1,4 +1,0 @@
-void_onCreate(android.os.Bundle)
-void_populateContactList()
-android.database.Cursor_getContacts()
-void_launchContactAdder()
