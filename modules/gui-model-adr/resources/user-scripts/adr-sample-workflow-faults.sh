@@ -356,6 +356,7 @@ do
     fi
 done
 
+: <<'END'
 while read line
 do
     pathname=${line%/*}
@@ -457,6 +458,7 @@ do
         fi
     done
 done < <( find adr-aut/$aut_directory/bin/result -name *.apk | sed '/original/d' )
+END
 
 python cv_rpt.py adr-aut/$aut_directory/bin/no_fault
 python ft_rpt.py adr-aut/$aut_directory/bin/result
