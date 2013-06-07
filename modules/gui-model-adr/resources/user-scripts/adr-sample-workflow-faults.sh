@@ -127,9 +127,25 @@ else
     tools_path="$HOME/android-sdk-linux/tools:$HOME/android-sdk-linux/platform-tools"
     original_PATH=${PATH}
     export PATH=${PATH}:${tools_path}
-    android update sdk --no-ui -t tool
-    android update sdk --no-ui -t platform-tool
-    android update sdk --no-ui -t platform
+    echo "y" | android update sdk --no-ui -t tool
+    echo "y" | android update sdk --no-ui -t platform-tool
+    echo "y" | android update sdk --no-ui -t platform
+    
+    echo "y" | android update sdk --no-ui -t tool
+    echo "y" | android update sdk --no-ui -t platform-tool
+    echo "y" | android update sdk --no-ui -t platform
+    
+    echo "y" | android update sdk --no-ui -t tool
+    echo "y" | android update sdk --no-ui -t platform-tool
+    echo "y" | android update sdk --no-ui -t platform
+    
+    echo "y" | android update sdk --no-ui -t tool
+    echo "y" | android update sdk --no-ui -t platform-tool
+    echo "y" | android update sdk --no-ui -t platform
+    
+    echo "y" | android update sdk --no-ui -t tool
+    echo "y" | android update sdk --no-ui -t platform-tool
+    echo "y" | android update sdk --no-ui -t platform
 fi
 
 echo -e "==> Kill the emulator process if running.\n"

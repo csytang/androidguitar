@@ -193,6 +193,8 @@ do
     pathname=${line%/*}
     original_path=`find src -name $filename`
     if [ ! -f ./bin/$pathname/aut-resigned.apk ] || [ ! -f ./bin/$pathname/coverage.em ]; then
+    	# Pyae Changed
+    	echo "either not found ./bin/$pathname/aut-resigned.apk or ./bin/$pathname/coverage.em"
         echo "==> Fault seeded source file: $line"
         cp $line $original_path
         ant instrument
@@ -298,9 +300,8 @@ echo $cmd
 eval $cmd 
 
 testcase_num=`find Demo/testcases/*.tst | wc -l`
-# Changes, changed "# testcase_num=5" to this:
+# Pyae Changed
 testcase_num=2
-# End Changes
 rm -rf `find adr-aut/$aut_directory -name '*.res'`
 rm -rf `find adr-aut/$aut_directory -name '*.ec'`
 rm -rf `find adr-aut/$aut_directory -name '*.log'`
@@ -319,6 +320,9 @@ do
     rm -rf $logs_dir/$test_name.log
 
     cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to $rip_second -so $rip_second -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
+    
+    # Changes
+    cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to 60000000 -so 10000000 -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
 
     # adding application arguments if needed 
     if [ ! -z $args ] 
@@ -352,6 +356,7 @@ do
     fi
 done
 
+: <<'END'
 while read line
 do
     pathname=${line%/*}
@@ -408,6 +413,9 @@ do
         rm -rf $logs_dir/$test_name.log
 
         cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to $rip_second -so $rip_second -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
+        
+            # Changes
+    cmd="$SCRIPT_DIR/adr-replayer.sh -cp $aut_classpath -c $aut -pt $port -g $gui_file -e $efg_file -t $testcase -i $intial_wait -d $replayer_delay -to 60000000 -so 10000000 -l $logs_dir/$test_name.log -gs $states_dir/$test_name.sta"
 
         # adding application arguments if needed 
         if [ ! -z $args ] 
@@ -450,6 +458,7 @@ do
         fi
     done
 done < <( find adr-aut/$aut_directory/bin/result -name *.apk | sed '/original/d' )
+END
 
 python cv_rpt.py adr-aut/$aut_directory/bin/no_fault
 python ft_rpt.py adr-aut/$aut_directory/bin/result
