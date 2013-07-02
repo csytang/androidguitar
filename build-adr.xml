@@ -72,10 +72,10 @@
 	<property name="arl.name" value="${adr.name}-replayer" />
 	<property name="arl-spec.modules" value="gui-replayer-core,gui-replayer-${adr.name}" />
   	<property name="arl.modules" value="gui-model-core,gui-model-${adr.name},${arl-spec.modules}" />
-<!--
+
   	<property name="acp.name" value="${adr.name}-capture" />
-  	<property name="acp-spec.modules" value="gui-cr-${adr.name}" />
-  	<property name="acp.modules" value="gui-model-core,gui-model-${adr.name},${acp-spec.modules}" />-->
+  	<property name="acp-spec.modules" value="gui-capture-${adr.name}" />
+  	<property name="acp.modules" value="gui-model-core,gui-model-${adr.name},${acp-spec.modules}" />
 
 
 	<!-- ${adr.name}-guitar config -->

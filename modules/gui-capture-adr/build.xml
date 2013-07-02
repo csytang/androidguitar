@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="gui-capture-adr" default="help" basedir=".">
+	<!-- Environment vars-->
+	<property file="${basedir}/build-local.properties" />
+	<property file="${basedir}/../../build-module-common.properties" />
+	<import file="${basedir}/../../build-module-common.xml"/>
+</project>
