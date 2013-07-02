@@ -1,0 +1,36 @@
+<project name="SWTRecorder">
+    
+    <property file="build.properties" />
+    
+	<property name="swt.dir" location="./SWTRecorder"/>
+	<property name="src.dir" location="${swt.dir}/src"/>
+	<property name="bin.dir" location="${swt.dir}/bin"/>
+	<property name="lib.dir" location="${swt.dir}/lib"/>
+	<property name="guitar.lib.dir" location="../../../dist/guitar/jars"/>
+	
+	<path id="build.classpath">
+		<fileset dir="${lib.dir}">
+            		<include name="${swt.jar.name}" />
+		</fileset>
+		<fileset dir="${guitar.lib.dir}">
+            		<include name="log4j-1.2.15.jar" />
+            		<include name="args4j-2.0.10.jar" />
+		</fileset>
+		<fileset dir="${guitar.lib.dir}/guitar-lib">
+            		<include name="gui-model-core.jar" />
+			<include name="gui-ripper-core.jar" />
+			<include name="gui-model-swt.jar" />
+			<include name="gui-ripper-swt.jar" />
+		</fileset>
+	</path>
+	
+    <target name="clean">
+        <delete dir="${bin.dir}"/>
+    </target>
+
+    <target name="compile" depends="clean">
+        <mkdir dir="${bin.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${bin.dir}" classpathref="build.classpath" includeantruntime="false"/>
+    </target>
+
+</project>

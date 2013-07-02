@@ -1,0 +1,7 @@
+package: com.example.android.contactmanager
+permission: android.permission.INTERNET
+activity: .ContactManager (main launcher activity)
+activity: .ContactAdder
+permission: android.permission.GET_ACCOUNTS
+permission: android.permission.READ_CONTACTS
+permission: android.permission.WRITE_CONTACTS

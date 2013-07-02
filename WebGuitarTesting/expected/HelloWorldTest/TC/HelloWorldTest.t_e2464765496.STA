@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCase>
+    <GUIStructure/>
+    <Step>
+        <EventId>e2464765496</EventId>
+        <ReachingStep>false</ReachingStep>
+        <GUIStructure>
+            <GUI>
+                <Window>
+                    <Attributes>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>https://googledrive.com/host/0B6TP-LuwGMgZbERwOXF5ZTNzWW8/helloworld.html</Value>
+                        </Property>
+                        <Property>
+                            <Name>Modal</Name>
+                            <Value>true</Value>
+                        </Property>
+                        <Property>
+                            <Name>Rootwindow</Name>
+                            <Value>false</Value>
+                        </Property>
+                    </Attributes>
+                </Window>
+                <Container>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w2375809004</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>body</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w2594907832</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>150</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>23</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>br</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w2965165818</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>43</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>div</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w999165832</Value>
+                </Property>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>43</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>ul</Value>
+                </Property>
+                <Property>
+                    <Name>Tag ID</Name>
+                    <Value></Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w2387742628</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>48</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>43</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>li</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w3586456872</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>48</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>45</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>label</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w330502240</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>52</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>46</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>input</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value>entry.0.group</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>https://googledrive.com/host/0B6TP-LuwGMgZbERwOXF5ZTNzWW8/helloworld.html</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w2387742690</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>48</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>64</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>li</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w3586460716</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>48</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>66</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>label</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w330740568</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>52</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>67</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>input</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value>entry.0.group</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>https://googledrive.com/host/0B6TP-LuwGMgZbERwOXF5ZTNzWW8/helloworld.html</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w2387742752</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>48</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>85</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>li</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w3586464560</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>48</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>87</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>label</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w330978896</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>52</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>88</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>input</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value>entry.0.group</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>https://googledrive.com/host/0B6TP-LuwGMgZbERwOXF5ZTNzWW8/helloworld.html</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </Contents>
+</Container>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w2168231304</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>122</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>a</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Href</Name>
+            <Value>http://www.google.com/</Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w3523674942</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>141</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>form</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value>input</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w2345533720</Value>
+                </Property>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>100</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>141</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>input</Value>
+                </Property>
+                <Property>
+                    <Name>Tag ID</Name>
+                    <Value></Value>
+                </Property>
+                <Property>
+                    <Name>Name</Name>
+                    <Value></Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w2345533782</Value>
+                </Property>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>TERMINAL</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>339</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>141</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>input</Value>
+                </Property>
+                <Property>
+                    <Name>Tag ID</Name>
+                    <Value></Value>
+                </Property>
+                <Property>
+                    <Name>Name</Name>
+                    <Value></Value>
+                </Property>
+            </Attributes>
+        </Widget>
+    </Contents>
+</Container>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w2594908080</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>182</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>br</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </GUI>
+        </GUIStructure>
+    </Step>
+</TestCase>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EFG>
+    <Events>
+        <Event>
+            <EventId>e164674948</EventId>
+            <WidgetId>w164674948</WidgetId>
+            <Type>EXPAND</Type>
+            <Initial>true</Initial>
+            <Action>edu.umd.cs.guitar.event.IphTouchEvent</Action>
+        </Event>
+        <Event>
+            <EventId>e1245675980</EventId>
+            <WidgetId>w1245675980</WidgetId>
+            <Type>EXPAND</Type>
+            <Initial>true</Initial>
+            <Action>edu.umd.cs.guitar.event.IphTouchEvent</Action>
+        </Event>
+    </Events>
+    <EventGraph>
+        <Row>
+            <E>1</E>
+            <E>2</E>
+        </Row>
+        <Row>
+            <E>2</E>
+            <E>1</E>
+        </Row>
+    </EventGraph>
+</EFG>

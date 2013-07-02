@@ -1,0 +1,57 @@
+[main] INFO  Testcase: ./Demo/testcases/testcase_6.tst
+[main] INFO  Log file: ./Demo/logs/testcase_6.log
+[main] INFO  GUI state file: ./Demo/states/testcase_6.sta
+[main] INFO  ------ BEGIN TESTCASE -----
+[main] INFO  Connecting to application
+[main] INFO  Application is connected.
+[main] INFO  Test monitor: edu.umd.cs.guitar.replayer.monitor.StateMonitor is initialized
+[main] INFO  Test monitor: edu.umd.cs.guitar.replayer.monitor.TimeMonitor is initialized
+[main] INFO  Testcase size 2 steps
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1139116552
+[main] INFO  Waiting for window:
+[main] INFO   + Window Title = rohan.makes.intents.LotsoIntents16ActivitiesActivity
+[main] INFO   + Widget ID    = w1139116552
+[main] INFO  FOUND window
+[main] INFO   + Window Title = rohan.makes.intents.LotsoIntents16ActivitiesActivity
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO   + Widget ID = w1139116552
+[main] INFO  FOUND widget
+[main] INFO   + Widget Title = Call Activity B
+[main] INFO   + Action: *edu.umd.cs.guitar.event.ADRActionHandler
+[main] INFO  
+[main] INFO  Delaying for 1000 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 3748
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1139646000
+[main] INFO  Waiting for window:
+[main] INFO   + Window Title = rohan.makes.intents.B_Activity
+[main] INFO   + Widget ID    = w1139646000
+[main] INFO  FOUND window
+[main] INFO   + Window Title = rohan.makes.intents.B_Activity
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO   + Widget ID = w1139646000
+[main] INFO  FOUND widget
+[main] INFO   + Widget Title = Call Activity B2
+[main] INFO   + Action: *edu.umd.cs.guitar.event.ADRActionHandler
+[main] INFO  
+[main] INFO  Delaying for 1000 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 6034
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- END TESTCASE ------
+[main] INFO  NORMALLY TERMINATED
+[main] INFO  Time Elapsed: 00 : 00 : 17: 459
+[main] INFO  Testcase: ./Demo/testcases/testcase_6.tst
+[main] INFO  Log file: ./Demo/logs/testcase_6.log
+[main] INFO  GUI state file: ./Demo/states/testcase_6.sta

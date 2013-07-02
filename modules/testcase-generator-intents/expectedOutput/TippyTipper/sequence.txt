@@ -1,0 +1,30 @@
+
+net.mandaria.tippytipper/.activities.TippyTipper --> net.mandaria.tippytipper/.activities.About
+net.mandaria.tippytipper/.activities.TippyTipper --> net.mandaria.tippytipper/.activities.Settings
+net.mandaria.tippytipper/.activities.TippyTipper --> net.mandaria.tippytipper/.activities.Total --> net.mandaria.tippytipper/.activities.About
+net.mandaria.tippytipper/.activities.TippyTipper --> net.mandaria.tippytipper/.activities.Total --> net.mandaria.tippytipper/.activities.Settings
+net.mandaria.tippytipper/.activities.TippyTipper --> net.mandaria.tippytipper/.activities.Total --> net.mandaria.tippytipper/.activities.SplitBill --> net.mandaria.tippytipper/.activities.Settings
+
+Sequence 1
+am start -n net.mandaria.tippytipper/.activities.TippyTipper
+am start -n net.mandaria.tippytipper/.activities.About android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 2
+am start -n net.mandaria.tippytipper/.activities.TippyTipper
+am start -n net.mandaria.tippytipper/.activities.Settings android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 3
+am start -n net.mandaria.tippytipper/.activities.TippyTipper
+am start -n net.mandaria.tippytipper/.activities.Total android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n net.mandaria.tippytipper/.activities.About android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 4
+am start -n net.mandaria.tippytipper/.activities.TippyTipper
+am start -n net.mandaria.tippytipper/.activities.Total android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n net.mandaria.tippytipper/.activities.Settings android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 5
+am start -n net.mandaria.tippytipper/.activities.TippyTipper
+am start -n net.mandaria.tippytipper/.activities.Total android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n net.mandaria.tippytipper/.activities.SplitBill android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n net.mandaria.tippytipper/.activities.Settings android.permission.INTERNET android.permission.INJECT_EVENTS 

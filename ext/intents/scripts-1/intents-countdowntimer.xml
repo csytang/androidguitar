@@ -1,0 +1,313 @@
+<Events>
+<intent>
+	<date-time>03-17 23:25:52.937</date-time>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<flag>0x10000000</flag>
+	<component>com.android.sdksetup/.DefaultActivity</component>
+</intent>
+<intent>
+	<date-time>03-17 23:26:00.770</date-time>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<flag>0x10000000</flag>
+	<component>com.android.launcher/com.android.launcher2.Launcher</component>
+</intent>
+<intent>
+	<date-time>03-17 23:26:46.763</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag>0x10000000</flag>
+	<component>net.everythingandroid.timer/.TimerActivity</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:26:47.373</date-time>
+	<info>TimerActivity: onResume()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:47.393</date-time>
+	<info>Timer.start()-</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:47.393</date-time>
+	<info>TimerActivity: updateButtons()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:47.393</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:47.533</date-time>
+	<info>TimerActivity: onWindowFocusChanged(true)</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:47.542</date-time>
+	<info>Notification cleared</info>
+</application-event>
+<guitar>
+	<date-time>03-17 23:26:50.254</date-time>
+	<info>getContainer: android.widget.FrameLayout@43ead228</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.383</date-time>
+	<info>getChildren: android.widget.FrameLayout@43ead228</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.436</date-time>
+	<info>child: android.widget.LinearLayout@43ead748</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.706</date-time>
+	<info>getChildren: android.widget.LinearLayout@43ead748</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.736</date-time>
+	<info>child: android.widget.LinearLayout@43ead968</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.743</date-time>
+	<info>child: android.widget.LinearLayout@43e3ee38</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.856</date-time>
+	<info>getChildren: android.widget.LinearLayout@43e3ee38</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.956</date-time>
+	<info>child: android.widget.LinearLayout@43e7a318</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:50.956</date-time>
+	<info>child: android.widget.LinearLayout@43e61a60</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:51.196</date-time>
+	<info>getChildren: android.widget.LinearLayout@43e61a60</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:51.346</date-time>
+	<info>child: android.widget.Button@43e8d818</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:51.366</date-time>
+	<info>child: android.widget.Button@43e48bc8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:52.596</date-time>
+	<info>click: Start</info>
+</guitar>
+<application-event>
+	<date-time>03-17 23:26:54.764</date-time>
+	<info>Timer.start()-</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:54.786</date-time>
+	<info>TimerViewHandler: start()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:54.786</date-time>
+	<info>TimerActivity: updateButtons()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:54.903</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:55.784</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<guitar>
+	<date-time>03-17 23:26:56.517</date-time>
+	<info>click: Pause</info>
+</guitar>
+<application-event>
+	<date-time>03-17 23:26:56.767</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:57.777</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:58.764</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:58.957</date-time>
+	<info>All notifications cleared</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:58.977</date-time>
+	<info>TimerViewHandler: stop()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:58.977</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:26:58.983</date-time>
+	<info>TimerActivity: updateButtons()</info>
+</application-event>
+<guitar>
+	<date-time>03-17 23:26:59.607</date-time>
+	<info>getChildren: android.widget.LinearLayout@43e7a318</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.616</date-time>
+	<info>child: android.widget.LinearLayout@43e7c028</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.616</date-time>
+	<info>child: android.widget.LinearLayout@43e81c28</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.616</date-time>
+	<info>child: android.widget.LinearLayout@43e37508</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.746</date-time>
+	<info>getChildren: android.widget.LinearLayout@43e37508</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.777</date-time>
+	<info>child: android.widget.TextView@43e8c3f8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.777</date-time>
+	<info>child: android.widget.Spinner@43e48948</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:26:59.777</date-time>
+	<info>child: android.widget.EditText@43e8c7f0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.157</date-time>
+	<info>getChildren: android.widget.LinearLayout@43e7c028</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.207</date-time>
+	<info>child: android.widget.TextView@43e564b8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.207</date-time>
+	<info>child: android.widget.Spinner@43e40a30</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.213</date-time>
+	<info>child: android.widget.EditText@43e568c8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.337</date-time>
+	<info>getChildren: android.widget.LinearLayout@43e81c28</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.366</date-time>
+	<info>child: android.widget.TextView@43e56c10</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.366</date-time>
+	<info>child: android.widget.Spinner@43e47278</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.366</date-time>
+	<info>child: android.widget.EditText@43e75b80</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.467</date-time>
+	<info>getChildren: android.widget.LinearLayout@43ead968</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.506</date-time>
+	<info>child: android.widget.LinearLayout@43eadb88</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.727</date-time>
+	<info>getChildren: android.widget.LinearLayout@43eadb88</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.749</date-time>
+	<info>child: android.widget.TextView@43eaddf0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.767</date-time>
+	<info>child: android.widget.TextView@43eae250</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.767</date-time>
+	<info>child: android.widget.TextView@43eae6b0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.767</date-time>
+	<info>child: android.widget.TextView@43eaead8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 23:27:00.767</date-time>
+	<info>child: android.widget.TextView@43e3f7b0</info>
+</guitar>
+<intent>
+	<date-time>03-17 23:27:07.923</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag>0x10000000</flag>
+	<component>net.everythingandroid.timer/.TimerActivity</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:27:08.449</date-time>
+	<info>TimerActivity: onResume()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:08.457</date-time>
+	<info>Timer.start()-</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:08.457</date-time>
+	<info>TimerActivity: updateButtons()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:08.457</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:08.583</date-time>
+	<info>TimerActivity: onWindowFocusChanged(true)</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:08.583</date-time>
+	<info>Notification cleared</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:18.953</date-time>
+	<info>TimerActivity: onWindowFocusChanged(false)</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:27:19.613</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag>0x10000000</flag>
+	<component>net.everythingandroid.timer/.TimerActivity</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:27:20.073</date-time>
+	<info>TimerActivity: onResume()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:20.082</date-time>
+	<info>Timer.start()-</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:20.082</date-time>
+	<info>TimerActivity: updateButtons()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:20.082</date-time>
+	<info>TimerActivity: updateCountdown()</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:20.223</date-time>
+	<info>TimerActivity: onWindowFocusChanged(true)</info>
+</application-event>
+<application-event>
+	<date-time>03-17 23:27:20.223</date-time>
+	<info>Notification cleared</info>
+</application-event>
+</Events>

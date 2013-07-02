@@ -1,0 +1,719 @@
+ 
+03-19 23:50:02.667 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e82308
+03-19 23:50:02.672 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:02.687 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:02.706 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.227 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e82308
+03-19 23:50:03.242 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:03.263 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.277 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.297 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:03.307 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43e82308
+03-19 23:50:03.307 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:03.323 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43e9fa30
+03-19 23:50:03.350 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:03.354 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.367 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.372 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:03.372 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43e9fa30
+03-19 23:50:03.397 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:03.397 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e9fc98
+03-19 23:50:03.397 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43ea0158
+03-19 23:50:03.402 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43ea09f8
+03-19 23:50:03.402 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43efa180
+03-19 23:50:03.402 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43efa9f0
+03-19 23:50:03.452 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:03.452 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.467 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:03.472 I/System.out(  375): Reached before Activity act
+03-19 23:50:03.977 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:03.977 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.B_Activity@43ea2bf0
+03-19 23:50:03.977 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:03.997 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:03.997 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:03.997 I/System.out(  375): Inside of the try, the end
+03-19 23:50:04.003 I/System.out(  375): At the end of the function
+03-19 23:50:04.003 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:04.036 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:04.036 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:04.567 D/edu.umd.cs.guitar(  375): click: Call Activity B1
+03-19 23:50:06.662 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.B1_Activity }
+03-19 23:50:07.183 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.B1_Activity: 399 ms (total 399 ms)
+03-19 23:50:07.273 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:07.303 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:07.303 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:07.821 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43eea5e8
+03-19 23:50:07.855 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:07.873 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:07.873 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:08.411 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43eea5e8
+03-19 23:50:08.422 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:08.552 D/dalvikvm(  375): GC_FOR_MALLOC freed 3805 objects / 579832 bytes in 105ms
+03-19 23:50:08.552 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:08.552 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:08.572 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:08.572 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43eea5e8
+03-19 23:50:08.582 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:08.582 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43eeaa78
+03-19 23:50:08.613 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:08.632 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:08.632 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:08.646 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:08.653 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43eeaa78
+03-19 23:50:08.671 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:08.671 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43eeace0
+03-19 23:50:08.694 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:08.694 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:08.712 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:09.232 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:50:09.232 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:50:09.832 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:09.864 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:09.864 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:09.864 I/System.out(  375): Reached before Activity act
+03-19 23:50:10.371 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:10.371 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.B_Activity@43ea2bf0
+03-19 23:50:10.373 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:10.384 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:10.384 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:10.384 I/System.out(  375): Inside of the try, the end
+03-19 23:50:10.384 I/System.out(  375): At the end of the function
+03-19 23:50:10.384 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:10.402 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:10.412 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:10.931 D/edu.umd.cs.guitar(  375): click: Call Activity B2
+03-19 23:50:13.042 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.B2_Activity }
+03-19 23:50:13.492 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.B2_Activity: 331 ms (total 331 ms)
+03-19 23:50:13.733 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:13.733 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:13.743 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:14.281 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43efdc78
+03-19 23:50:14.292 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:14.313 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:14.313 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:14.852 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43efdc78
+03-19 23:50:14.863 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:14.872 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:15.022 D/dalvikvm(  375): GC_FOR_MALLOC freed 2650 objects / 478120 bytes in 149ms
+03-19 23:50:15.022 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:15.043 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:15.043 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43efdc78
+03-19 23:50:15.043 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:15.062 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43e6e930
+03-19 23:50:15.091 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:15.092 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:15.092 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:15.112 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:15.112 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43e6e930
+03-19 23:50:15.123 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:15.123 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e6eb40
+03-19 23:50:15.152 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:15.152 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:15.152 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:15.692 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:50:15.692 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:50:16.274 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:16.274 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:16.274 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:16.282 I/System.out(  375): Reached before Activity act
+03-19 23:50:16.792 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:16.792 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.B_Activity@43ea2bf0
+03-19 23:50:16.792 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:16.811 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:16.812 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:16.812 I/System.out(  375): Inside of the try, the end
+03-19 23:50:16.812 I/System.out(  375): At the end of the function
+03-19 23:50:16.842 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:16.842 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:16.842 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:17.381 D/edu.umd.cs.guitar(  375): click: Call Activity B3
+03-19 23:50:19.482 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.B3_Activity }
+03-19 23:50:19.866 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.B3_Activity: 315 ms (total 315 ms)
+03-19 23:50:20.162 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:20.181 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:20.183 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:20.721 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e303c0
+03-19 23:50:20.742 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:20.742 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:20.742 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:21.271 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e303c0
+03-19 23:50:21.275 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:21.285 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:21.312 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:21.333 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:21.333 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43e303c0
+03-19 23:50:21.466 D/dalvikvm(  375): GC_FOR_MALLOC freed 2931 objects / 494728 bytes in 130ms
+03-19 23:50:21.472 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:21.482 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43e30728
+03-19 23:50:21.521 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:21.522 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:21.522 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:21.532 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:21.549 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43e30728
+03-19 23:50:21.569 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:21.569 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43f1c520
+03-19 23:50:21.582 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:21.582 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:21.599 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:22.123 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:50:22.123 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:50:22.729 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:22.733 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:22.733 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:22.749 I/System.out(  375): Reached before Activity act
+03-19 23:50:23.258 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:23.258 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.B_Activity@43ea2bf0
+03-19 23:50:23.258 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:23.258 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:23.258 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:23.262 I/System.out(  375): Inside of the try, the end
+03-19 23:50:23.262 I/System.out(  375): At the end of the function
+03-19 23:50:23.283 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:23.283 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:23.293 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:23.819 D/edu.umd.cs.guitar(  375): click: Call Activity B4
+03-19 23:50:25.923 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.B4_Activity }
+03-19 23:50:26.370 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.B4_Activity: 348 ms (total 348 ms)
+03-19 23:50:26.543 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:26.562 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:26.562 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.090 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e5b668
+03-19 23:50:27.120 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:27.122 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.122 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.630 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e5b668
+03-19 23:50:27.643 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:27.663 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.663 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.684 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:27.684 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43e5b668
+03-19 23:50:27.684 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:27.684 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43ea0db8
+03-19 23:50:27.722 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:27.743 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.743 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.753 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:27.772 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43ea0db8
+03-19 23:50:27.772 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:27.772 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e3cad0
+03-19 23:50:27.810 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:27.912 D/dalvikvm(  375): GC_FOR_MALLOC freed 3433 objects / 615584 bytes in 103ms
+03-19 23:50:27.930 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:27.930 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:28.463 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:50:28.463 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:50:29.042 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:29.060 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:29.063 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:30.182 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:30.182 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:30.211 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:30.213 I/System.out(  375): Reached before Activity act
+03-19 23:50:30.721 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:30.721 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.LotsoIntents16ActivitiesActivity@43e54250
+03-19 23:50:30.721 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:30.722 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:30.722 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:30.741 I/System.out(  375): Inside of the try, the end
+03-19 23:50:30.741 I/System.out(  375): At the end of the function
+03-19 23:50:30.743 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:30.764 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:30.764 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:31.305 D/edu.umd.cs.guitar(  375): click: Call Activity C
+03-19 23:50:33.373 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.C_Activity }
+03-19 23:50:33.512 D/dalvikvm(   82): GREF has increased to 301
+03-19 23:50:33.832 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.C_Activity: 398 ms (total 398 ms)
+03-19 23:50:34.070 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:34.082 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:34.093 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:34.611 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e52620
+03-19 23:50:34.641 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:34.642 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:34.642 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.171 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e52620
+03-19 23:50:35.192 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:35.192 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.192 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.218 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:35.232 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43e52620
+03-19 23:50:35.232 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:35.232 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43eac890
+03-19 23:50:35.272 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:35.272 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.421 D/dalvikvm(  375): GC_FOR_MALLOC freed 2459 objects / 467472 bytes in 128ms
+03-19 23:50:35.421 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.441 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43eac890
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e53e40
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43e87a48
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43ea1998
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43e4fbb0
+03-19 23:50:35.442 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43e528f8
+03-19 23:50:35.502 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:35.502 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.522 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:35.522 I/System.out(  375): Reached before Activity act
+03-19 23:50:36.031 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:36.031 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.C_Activity@43efa820
+03-19 23:50:36.031 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:36.033 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:36.033 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:36.042 I/System.out(  375): Inside of the try, the end
+03-19 23:50:36.042 I/System.out(  375): At the end of the function
+03-19 23:50:36.062 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:36.062 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:36.062 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:36.601 D/edu.umd.cs.guitar(  375): click: Call Activity C3
+03-19 23:50:38.703 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.C3_Activity }
+03-19 23:50:39.203 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.C3_Activity: 399 ms (total 399 ms)
+03-19 23:50:39.333 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:39.343 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:39.363 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:39.870 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43edbfe8
+03-19 23:50:39.883 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:39.903 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:39.912 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:40.433 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43edbfe8
+03-19 23:50:40.463 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:40.463 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:40.463 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:40.483 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:40.483 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43edbfe8
+03-19 23:50:40.513 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:40.513 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43edc478
+03-19 23:50:40.534 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:40.534 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:40.542 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:40.563 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:40.563 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43edc478
+03-19 23:50:40.572 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:40.593 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43edc6e0
+03-19 23:50:40.613 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:40.763 D/dalvikvm(  375): GC_FOR_MALLOC freed 3821 objects / 535360 bytes in 132ms
+03-19 23:50:40.763 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:40.773 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:41.295 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:50:41.295 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:50:41.883 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:41.903 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:41.903 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:41.903 I/System.out(  375): Reached before Activity act
+03-19 23:50:42.413 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:42.413 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.C_Activity@43efa820
+03-19 23:50:42.422 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:42.422 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:42.422 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:42.443 I/System.out(  375): Inside of the try, the end
+03-19 23:50:42.443 I/System.out(  375): At the end of the function
+03-19 23:50:42.443 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:42.463 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:42.463 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:42.999 D/edu.umd.cs.guitar(  375): click: Call Activity C4
+03-19 23:50:45.093 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.C4_Activity }
+03-19 23:50:45.553 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.C4_Activity: 339 ms (total 339 ms)
+03-19 23:50:45.792 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:45.792 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:45.813 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.323 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43eec258
+03-19 23:50:46.337 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:46.353 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.353 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.883 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43eec258
+03-19 23:50:46.883 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:46.903 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.903 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.923 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:46.943 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43eec258
+03-19 23:50:46.943 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:46.943 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43e7d788
+03-19 23:50:46.973 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:46.973 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.993 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:46.993 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:47.003 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43e7d788
+03-19 23:50:47.013 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:47.013 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e2f530
+03-19 23:50:47.043 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:47.043 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:47.173 D/dalvikvm(  375): GC_FOR_MALLOC freed 2656 objects / 478696 bytes in 119ms
+03-19 23:50:47.173 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:47.683 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:50:47.683 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:50:48.263 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:48.283 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:48.283 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:48.283 I/System.out(  375): Reached before Activity act
+03-19 23:50:48.783 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:48.783 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.C_Activity@43efa820
+03-19 23:50:48.783 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:48.792 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:48.792 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:48.802 I/System.out(  375): Inside of the try, the end
+03-19 23:50:48.802 I/System.out(  375): At the end of the function
+03-19 23:50:48.820 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:48.823 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:48.823 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:49.346 D/edu.umd.cs.guitar(  375): click: Call Activity C1
+03-19 23:50:51.412 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.C1_Activity }
+03-19 23:50:51.846 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.C1_Activity: 352 ms (total 352 ms)
+03-19 23:50:52.054 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:52.097 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:52.097 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:52.607 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e60208
+03-19 23:50:52.626 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:52.626 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:52.626 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:53.147 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e60208
+03-19 23:50:53.177 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:53.177 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:53.186 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:53.192 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:53.211 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43e60208
+03-19 23:50:53.232 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:53.232 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43eab0a0
+03-19 23:50:53.242 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:53.242 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:53.263 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:53.282 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:53.282 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43eab0a0
+03-19 23:50:53.282 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:53.282 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e5af08
+03-19 23:50:53.312 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:53.332 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:53.352 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:54.412 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:54.535 D/dalvikvm(  375): GC_FOR_MALLOC freed 2853 objects / 535648 bytes in 121ms
+03-19 23:50:54.535 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:54.571 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:54.572 I/System.out(  375): Reached before Activity act
+03-19 23:50:55.081 I/System.out(  375): Reached before getRootWindows
+03-19 23:50:55.081 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.C_Activity@43efa820
+03-19 23:50:55.081 I/System.out(  375): Reached after getRootWindows
+03-19 23:50:55.103 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:50:55.103 I/System.out(  375): Inside of the try, beginning
+03-19 23:50:55.103 I/System.out(  375): Inside of the try, the end
+03-19 23:50:55.103 I/System.out(  375): At the end of the function
+03-19 23:50:55.123 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:55.123 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:55.132 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:55.661 D/edu.umd.cs.guitar(  375): click: Call Activity C2
+03-19 23:50:57.743 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.C2_Activity }
+03-19 23:50:58.130 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.C2_Activity: 319 ms (total 319 ms)
+03-19 23:50:58.422 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:58.422 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:58.442 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:58.951 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ee6c70
+03-19 23:50:58.962 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:58.962 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:58.983 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:59.501 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ee6c70
+03-19 23:50:59.521 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:59.522 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:59.532 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:59.562 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:59.583 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43ee6c70
+03-19 23:50:59.583 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:59.583 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43ec0d60
+03-19 23:50:59.622 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:59.622 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:59.644 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:59.644 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:59.662 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43ec0d60
+03-19 23:50:59.673 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:50:59.673 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43eabf90
+03-19 23:50:59.694 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:50:59.713 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:50:59.713 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:00.233 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:51:00.233 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:51:00.801 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:00.812 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:00.950 D/dalvikvm(  375): GC_FOR_MALLOC freed 2654 objects / 478008 bytes in 127ms
+03-19 23:51:00.950 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:01.473 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:51:01.473 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:51:02.042 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:02.042 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:02.060 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:02.066 I/System.out(  375): Reached before Activity act
+03-19 23:51:02.570 I/System.out(  375): Reached before getRootWindows
+03-19 23:51:02.570 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.LotsoIntents16ActivitiesActivity@43e54250
+03-19 23:51:02.570 I/System.out(  375): Reached after getRootWindows
+03-19 23:51:02.572 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:51:02.572 I/System.out(  375): Inside of the try, beginning
+03-19 23:51:02.582 I/System.out(  375): Inside of the try, the end
+03-19 23:51:02.582 I/System.out(  375): At the end of the function
+03-19 23:51:02.601 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:02.603 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:02.603 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:03.131 D/edu.umd.cs.guitar(  375): click: Call Activity D
+03-19 23:51:05.202 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.D_Activity }
+03-19 23:51:05.642 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.D_Activity: 376 ms (total 376 ms)
+03-19 23:51:05.873 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:05.883 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:05.883 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:06.411 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e882e0
+03-19 23:51:06.432 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:06.432 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:06.432 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:06.961 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43e882e0
+03-19 23:51:06.983 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:06.996 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:06.996 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:07.013 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:07.035 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43e882e0
+03-19 23:51:07.035 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:07.035 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43ea3c70
+03-19 23:51:07.060 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:07.063 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:07.072 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:07.084 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:07.103 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43ea3c70
+03-19 23:51:07.103 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:07.121 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43ef6be8
+03-19 23:51:07.122 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43f26048
+03-19 23:51:07.122 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43e2f8d0
+03-19 23:51:07.122 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43ec0fa8
+03-19 23:51:07.122 D/edu.umd.cs.guitar(  375): child: android.widget.Button@43ea3908
+03-19 23:51:07.166 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:07.330 D/dalvikvm(  375): GC_FOR_MALLOC freed 3592 objects / 522472 bytes in 141ms
+03-19 23:51:07.330 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:07.353 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:07.353 I/System.out(  375): Reached before Activity act
+03-19 23:51:07.861 I/System.out(  375): Reached before getRootWindows
+03-19 23:51:07.861 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.D_Activity@43e99478
+03-19 23:51:07.861 I/System.out(  375): Reached after getRootWindows
+03-19 23:51:07.873 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:51:07.873 I/System.out(  375): Inside of the try, beginning
+03-19 23:51:07.891 I/System.out(  375): Inside of the try, the end
+03-19 23:51:07.891 I/System.out(  375): At the end of the function
+03-19 23:51:07.903 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:07.903 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:07.923 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:08.422 D/edu.umd.cs.guitar(  375): click: Call Activity D2
+03-19 23:51:10.522 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.D2_Activity }
+03-19 23:51:10.992 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.D2_Activity: 359 ms (total 359 ms)
+03-19 23:51:11.194 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:11.211 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:11.211 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:11.721 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ea5758
+03-19 23:51:11.743 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:11.762 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:11.762 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:12.291 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ea5758
+03-19 23:51:12.313 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:12.353 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:12.353 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:12.362 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:12.362 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43ea5758
+03-19 23:51:12.374 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:12.374 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43ea35e0
+03-19 23:51:12.412 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:12.412 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:12.442 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:12.470 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:12.474 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43ea35e0
+03-19 23:51:12.482 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:12.482 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43edae60
+03-19 23:51:12.522 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:12.522 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:12.522 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:13.052 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:51:13.052 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:51:13.622 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:13.642 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:13.752 D/dalvikvm(  375): GC_FOR_MALLOC freed 2672 objects / 478680 bytes in 116ms
+03-19 23:51:13.752 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:13.773 I/System.out(  375): Reached before Activity act
+03-19 23:51:14.281 I/System.out(  375): Reached before getRootWindows
+03-19 23:51:14.281 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.D_Activity@43e99478
+03-19 23:51:14.291 I/System.out(  375): Reached after getRootWindows
+03-19 23:51:14.312 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:51:14.312 I/System.out(  375): Inside of the try, beginning
+03-19 23:51:14.312 I/System.out(  375): Inside of the try, the end
+03-19 23:51:14.312 I/System.out(  375): At the end of the function
+03-19 23:51:14.312 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:14.322 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:14.341 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:14.881 D/edu.umd.cs.guitar(  375): click: Call Activity D4
+03-19 23:51:16.966 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.D4_Activity }
+03-19 23:51:17.392 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.D4_Activity: 355 ms (total 355 ms)
+03-19 23:51:17.633 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:17.642 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:17.661 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.171 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ebb3a8
+03-19 23:51:18.192 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:18.192 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.213 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.721 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ebb3a8
+03-19 23:51:18.743 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:18.752 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.783 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.783 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:18.803 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43ebb3a8
+03-19 23:51:18.803 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:18.803 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43e8be40
+03-19 23:51:18.833 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:18.843 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.843 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.873 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:18.873 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43e8be40
+03-19 23:51:18.873 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:18.873 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e5bc68
+03-19 23:51:18.911 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:18.911 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:18.911 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:19.443 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:51:19.443 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:51:20.022 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:20.022 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:20.053 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:20.053 I/System.out(  375): Reached before Activity act
+03-19 23:51:20.561 I/System.out(  375): Reached before getRootWindows
+03-19 23:51:20.561 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.D_Activity@43e99478
+03-19 23:51:20.561 I/System.out(  375): Reached after getRootWindows
+03-19 23:51:20.572 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:51:20.572 I/System.out(  375): Inside of the try, beginning
+03-19 23:51:20.572 I/System.out(  375): Inside of the try, the end
+03-19 23:51:20.583 I/System.out(  375): At the end of the function
+03-19 23:51:20.593 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:20.593 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:20.733 D/dalvikvm(  375): GC_FOR_MALLOC freed 2761 objects / 531664 bytes in 110ms
+03-19 23:51:20.733 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:21.271 D/edu.umd.cs.guitar(  375): click: Call Activity D3
+03-19 23:51:23.342 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.D3_Activity }
+03-19 23:51:23.812 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.D3_Activity: 348 ms (total 348 ms)
+03-19 23:51:24.031 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:24.033 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:24.033 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:24.561 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ec17f0
+03-19 23:51:24.582 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:24.582 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:24.582 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.111 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43ec17f0
+03-19 23:51:25.143 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:25.143 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.143 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.163 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:25.183 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43ec17f0
+03-19 23:51:25.183 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:25.183 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43e32358
+03-19 23:51:25.212 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:25.212 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.212 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.232 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:25.232 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43e32358
+03-19 23:51:25.232 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:25.252 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e32568
+03-19 23:51:25.282 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:25.296 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.296 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:25.823 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:51:25.832 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:51:26.412 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:26.433 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:26.433 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:26.452 I/System.out(  375): Reached before Activity act
+03-19 23:51:26.961 I/System.out(  375): Reached before getRootWindows
+03-19 23:51:26.961 D/edu.umd.cs.guitar(  375): getRootWindows: rohan.makes.intents.D_Activity@43e99478
+03-19 23:51:26.971 I/System.out(  375): Reached after getRootWindows
+03-19 23:51:26.972 I/System.out(  375): WHAT THE HECK IS JSON!?!?!?!?!
+03-19 23:51:26.972 I/System.out(  375): Inside of the try, beginning
+03-19 23:51:26.972 I/System.out(  375): Inside of the try, the end
+03-19 23:51:26.983 I/System.out(  375): At the end of the function
+03-19 23:51:27.002 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:27.013 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:27.013 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:27.541 D/edu.umd.cs.guitar(  375): click: Call Activity D1
+03-19 23:51:29.717 D/dalvikvm(  375): GC_FOR_MALLOC freed 2914 objects / 495680 bytes in 128ms
+03-19 23:51:29.763 I/ActivityManager(   82): Starting activity: Intent { cmp=rohan.makes.intents/.D1_Activity }
+03-19 23:51:30.167 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.D1_Activity: 339 ms (total 339 ms)
+03-19 23:51:30.452 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:30.452 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:30.470 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:30.980 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43f22c88
+03-19 23:51:31.003 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:31.003 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.003 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.520 D/edu.umd.cs.guitar(  375): getContainer: android.widget.FrameLayout@43f22c88
+03-19 23:51:31.543 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:31.560 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.585 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.585 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:31.592 D/edu.umd.cs.guitar(  375): getChildren: android.widget.FrameLayout@43f22c88
+03-19 23:51:31.592 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:31.592 D/edu.umd.cs.guitar(  375): child: android.widget.LinearLayout@43f22dd8
+03-19 23:51:31.640 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:31.640 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.644 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.662 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:31.662 D/edu.umd.cs.guitar(  375): getChildren: android.widget.LinearLayout@43f22dd8
+03-19 23:51:31.662 D/edu.umd.cs.guitar(  375): not scrollable
+03-19 23:51:31.662 D/edu.umd.cs.guitar(  375): child: android.widget.TextView@43e9acd8
+03-19 23:51:31.693 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:31.693 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:31.693 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:32.232 W/KeyCharacterMap(  375): No keyboard for id 0
+03-19 23:51:32.232 W/KeyCharacterMap(  375): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+03-19 23:51:32.822 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:32.836 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:32.842 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:33.932 D/edu.umd.cs.guitar(  375): socket close
+03-19 23:51:33.942 I/global  (  375): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:33.956 I/global  (  375): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:34.002 I/System.out(  375): EMMA: runtime coverage data written to [/data/data/rohan.makes.intents/files/coverage.ec] {in 27 ms}
+03-19 23:51:34.013 I/ActivityManager(   82): Force stopping package rohan.makes.intents uid=10036
+03-19 23:51:34.013 I/Process (   82): Sending signal. PID: 375 SIG: 9
+03-19 23:51:34.123 I/WindowManager(   82): WIN DEATH: Window{43e8e6b8 rohan.makes.intents/rohan.makes.intents.LotsoIntents16ActivitiesActivity paused=false}
+03-19 23:51:34.142 I/UsageStats(   82): Unexpected resume of com.android.launcher while already resumed in rohan.makes.intents
+03-19 23:51:34.175 W/InputManagerService(   82): Got RemoteException sending setActive(false) notification to pid 375 uid 10036
+03-19 23:51:49.384 D/AndroidRuntime(  392): 
+03-19 23:51:49.384 D/AndroidRuntime(  392): >>>>>>>>>>>>>> AndroidRuntime START <<<<<<<<<<<<<<
+03-19 23:51:49.384 D/AndroidRuntime(  392): CheckJNI is ON
+03-19 23:51:49.522 D/AndroidRuntime(  392): --- registering native functions ---
+03-19 23:51:50.083 D/AndroidRuntime(  392): Shutting down VM
+03-19 23:51:50.083 D/jdwp    (  392): adbd disconnected
+03-19 23:51:50.142 I/ActivityManager(   82): Force stopping package rohan.makes.intents uid=10036
+03-19 23:51:50.173 I/ActivityManager(   82): Start proc rohan.makes.intents for added application rohan.makes.intents: pid=400 uid=10036 gids={3003}
+03-19 23:51:50.184 I/dalvikvm(  392): JNI: AttachCurrentThread (from ???.???)
+03-19 23:51:50.184 I/AndroidRuntime(  392): NOTE: attach of thread 'Binder Thread #3' failed
+03-19 23:51:50.673 I/System.out(  400): EMMA: collecting runtime coverage data ...
+03-19 23:51:50.743 D/dalvikvm(  400): GC_FOR_MALLOC freed 4399 objects / 344880 bytes in 65ms
+03-19 23:51:50.743 I/System.out(  400): AUTInstrument => in onStart(), before 'Activity act = startActivitySync(aut);'
+03-19 23:51:50.752 I/ActivityManager(   82): Starting activity: Intent { flg=0x10000000 cmp=rohan.makes.intents/.LotsoIntents16ActivitiesActivity }
+03-19 23:51:51.224 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.LotsoIntents16ActivitiesActivity: 459 ms (total 459 ms)
+03-19 23:51:51.282 I/System.out(  400): AUTInstrument => in onStart(), after 'Activity act = startActivitySync(aut);'
+03-19 23:51:51.302 I/edu.umd.cs.guitar(  400): rohan.makes.intents.LotsoIntents16ActivitiesActivity
+03-19 23:51:53.208 I/global  (  400): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:53.212 I/global  (  400): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:51:53.212 D/edu.umd.cs.guitar(  400): socket close
+03-19 23:51:56.364 D/dalvikvm(  207): GC_EXPLICIT freed 4528 objects / 195792 bytes in 84ms
+03-19 23:52:00.123 D/dalvikvm(   82): GC_FOR_MALLOC freed 13022 objects / 622296 bytes in 105ms
+03-19 23:52:00.755 D/AndroidRuntime(  416): 
+03-19 23:52:00.755 D/AndroidRuntime(  416): >>>>>>>>>>>>>> AndroidRuntime START <<<<<<<<<<<<<<
+03-19 23:52:00.763 D/AndroidRuntime(  416): CheckJNI is ON
+03-19 23:52:00.993 D/AndroidRuntime(  416): --- registering native functions ---
+03-19 23:52:01.582 D/AndroidRuntime(  416): Shutting down VM
+03-19 23:52:01.593 D/jdwp    (  416): adbd disconnected
+03-19 23:52:01.612 I/AndroidRuntime(  416): NOTE: attach of thread 'Binder Thread #3' failed
+03-19 23:52:01.632 I/ActivityManager(   82): Force stopping package rohan.makes.intents uid=10036
+03-19 23:52:01.643 W/ActivityManager(   82): Crash of app rohan.makes.intents running instrumentation ComponentInfo{edu.umd.cs.guitar/edu.umd.cs.guitar.AUTInstrument}
+03-19 23:52:01.643 I/ActivityManager(   82): Force stopping package rohan.makes.intents uid=10036
+03-19 23:52:01.672 I/UsageStats(   82): Unexpected resume of com.android.launcher while already resumed in rohan.makes.intents
+03-19 23:52:01.672 I/Process (   82): Sending signal. PID: 400 SIG: 9
+03-19 23:52:01.693 I/WindowManager(   82): WIN DEATH: Window{43fbd678 rohan.makes.intents/rohan.makes.intents.LotsoIntents16ActivitiesActivity paused=false}
+03-19 23:52:01.722 I/ActivityManager(   82): Start proc rohan.makes.intents for added application rohan.makes.intents: pid=424 uid=10036 gids={3003}
+03-19 23:52:01.852 W/InputManagerService(   82): Got RemoteException sending setActive(false) notification to pid 400 uid 10036
+03-19 23:52:02.352 I/System.out(  424): EMMA: collecting runtime coverage data ...
+03-19 23:52:02.423 D/dalvikvm(  424): GC_FOR_MALLOC freed 4426 objects / 345920 bytes in 69ms
+03-19 23:52:02.423 I/System.out(  424): AUTInstrument => in onStart(), before 'Activity act = startActivitySync(aut);'
+03-19 23:52:02.442 I/ActivityManager(   82): Starting activity: Intent { flg=0x10000000 cmp=rohan.makes.intents/.LotsoIntents16ActivitiesActivity }
+03-19 23:52:02.933 I/ActivityManager(   82): Displayed activity rohan.makes.intents/.LotsoIntents16ActivitiesActivity: 481 ms (total 481 ms)
+03-19 23:52:03.022 I/System.out(  424): AUTInstrument => in onStart(), after 'Activity act = startActivitySync(aut);'
+03-19 23:52:03.045 I/edu.umd.cs.guitar(  424): rohan.makes.intents.LotsoIntents16ActivitiesActivity
+03-19 23:52:04.772 I/global  (  424): Default buffer size used in BufferedReader constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:52:04.772 I/global  (  424): Default buffer size used in BufferedWriter constructor. It would be better to be explicit if an 8k-char buffer is required.
+03-19 23:52:04.783 D/edu.umd.cs.guitar(  424): socket close
+03-19 23:52:08.083 D/dalvikvm(  367): GC_EXPLICIT freed 796 objects / 56504 bytes in 67ms
+

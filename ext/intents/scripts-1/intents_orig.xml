@@ -1,0 +1,1362 @@
+<ActivityManager>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:07 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:07 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:08 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:08 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:09 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:09 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:10 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:10 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:11 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:11 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:12 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:12 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:13 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:13 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:14 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:14 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:15 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:15 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:16 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:16 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:17 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:17 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:18 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:18 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:19 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:19 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:20 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:20 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:21 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:21 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:22 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:22 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:23 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:23 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:24 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:24 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:25 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:25 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:05:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:05:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:12 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:12 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:13 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:13 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:14 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:14 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:15 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:15 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:16 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:16 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:17 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:17 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:18 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:18 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:19 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:19 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:20 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:20 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:21 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:21 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:22 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:22 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:23 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:23 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:24 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:24 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:25 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:25 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:29 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:29 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:30 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:30 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:31 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:31 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:06:32 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:06:32 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:26 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:26 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:27 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:27 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:28 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:28 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:29 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:29 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:29 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:29 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:30 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:30 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:30 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:30 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:31 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:31 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:31 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:31 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:32 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:32 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:32 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:32 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:33 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:33 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:33 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:33 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:34 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:34 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:34 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:34 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:35 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:35 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:35 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:35 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:36 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:36 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:36 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:36 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:37 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:37 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:37 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:37 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:38 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:38 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:38 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:38 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:39 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:39 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:39 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:39 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:40 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:40 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:40 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:40 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:41 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:41 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:41 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:41 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:42 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:42 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:42 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:42 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:43 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:43 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:43 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:43 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:45 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:45 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:45 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:45 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:46 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:46 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:46 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:46 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.LAUNCHER]</category>
+	<component>com.facebook.katana/.LoginActivity</component>
+	<flag>0x10200000</flag>
+	<time>Thu Mar 01 21:09:47 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.SEARCH</action>
+	<category>NOT_REPORTED</category>
+	<component>mobi.mgeek.TunnyBrowser/.BrowserActivity</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:47 EST 2012</time>
+	<data>(has extras)</data>
+</intent>
+<intent>
+	<action>NOT_REPORTED</action>
+	<category>NOT_REPORTED</category>
+	<component>com.google.android.gsf/.update.SystemUpdateInstallDialog</component>
+	<flag>0x10800000</flag>
+	<time>Thu Mar 01 21:09:47 EST 2012</time>
+	<data></data>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<component>com.android.launcher/.Launcher</component>
+	<flag>0x10000000</flag>
+	<time>Thu Mar 01 21:09:47 EST 2012</time>
+	<data></data>
+</intent>
+</ActivityManager>

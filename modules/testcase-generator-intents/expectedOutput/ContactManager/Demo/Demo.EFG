@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EFG>
+    <Events>
+        <Event>
+            <EventId>e1139461280</EventId>
+            <WidgetId>w1139461280</WidgetId>
+            <Type>UNRESTRICED FOCUS</Type>
+            <Initial>true</Initial>
+            <Action>edu.umd.cs.guitar.event.ADRActionHandler</Action>
+        </Event>
+        <Event>
+            <EventId>e1139176496</EventId>
+            <WidgetId>w1139176496</WidgetId>
+            <Type>SYSTEM INTERACTION</Type>
+            <Initial>false</Initial>
+            <Action>edu.umd.cs.guitar.event.ADRActionHandler</Action>
+        </Event>
+    </Events>
+    <EventGraph>
+        <Row>
+            <E>1</E>
+            <E>2</E>
+        </Row>
+        <Row>
+            <E>1</E>
+            <E>1</E>
+        </Row>
+    </EventGraph>
+</EFG>

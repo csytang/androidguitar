@@ -1,0 +1,443 @@
+[main] ERROR configuration.xml not found!!!
+[main] ERROR No configuration file. Using an empty one...
+[main] INFO  Number of root windows: 1
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.LotsoIntents16ActivitiesActivity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity A*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.A_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.A_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity A1*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.A1_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.A1_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity A4*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.A4_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.A4_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity A2*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.A2_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.A2_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity A3*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.A3_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.A3_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity B*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.B_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.B_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity B1*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.B1_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.B1_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity B3*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.B3_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.B3_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity B2*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.B2_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.B2_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity B4*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.B4_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.B4_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity C*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.C_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.C_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity C3*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.C3_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.C3_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity C4*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.C4_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.C4_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity C1*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.C1_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.C1_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity C2*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.C2_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.C2_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity D*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.D_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.D_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity D1*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.D1_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.D1_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity D2*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.D2_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.D2_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity D3*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.D3_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.D3_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Call Activity D4*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*rohan.makes.intents.D4_Activity*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *rohan.makes.intents.D4_Activity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  -----------------------------
+[main] INFO  OUTPUT SUMARY: 
+[main] INFO  Number of Windows: 21
+[main] INFO  Ripping Elapsed: 00 : 10 : 06: 492
+[main] INFO  Log file: ./Demo/Demo.log

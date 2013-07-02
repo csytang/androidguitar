@@ -1,0 +1,283 @@
+Shoes.app :title => "Android Intents", :width => 350, :height => 300 do
+  background black 
+  stack :margin => 10 do
+
+    title "IntentsTracker",
+    :stroke => dimgray
+    
+    flow do 
+     @btn_1 = button "A"
+     @btn_1.style(:height => 50)
+     @btn_1.click { 
+	Shoes.app :title => "Android Intents", :width => 350, :height => 410 do
+  	background white  
+
+	    stack :margin => 10 do
+
+            title "Filter Out",
+            :stroke => black, 
+            :size => 20
+
+             stack do 
+	      
+	      flow do
+              @chk_1 = check
+              # @chk_1.click { }
+  	      
+              @option_1 = para "Category A"
+              @option_1.size = 14
+              @option_1.stroke = darkgray
+              end 
+
+              flow do
+              @chk_2 = check
+              # @chk_2.click { }
+  	      
+              @option_2 = para "Category B"
+              @option_2.size = 14
+              @option_2.stroke = darkgray
+              end 
+
+              flow do
+              @chk_3 = check
+              # @chk_3.click { }
+  	      
+              @option_3 = para "Category C"
+              @option_3.size = 14
+              @option_3.stroke = darkgray
+              end 
+ 
+              flow do
+              @chk_4 = check
+              # @chk_4.click { }
+  	      
+              @option_4 = para "Category D"
+              @option_4.size = 14
+              @option_4.stroke = darkgray
+              end 
+
+              flow do
+              @chk_5 = check
+              # @chk_5.click { }
+  	      
+              @option_5 = para "Category E"
+              @option_5.size = 14
+              @option_5.stroke = darkgray
+              end 
+ 
+              flow do
+              @chk_6 = check
+              # @chk_6.click { }
+  	      
+              @option_6 = para "Category F"
+              @option_6.size = 14
+              @option_6.stroke = darkgray
+              end
+
+	      flow do 
+              @btn_1 = button "Submit"
+	      @btn_1.click {
+
+		Shoes.app :title => "Android Intents", :width => 350, :height => 250 do 
+		  background black
+		  stack do 
+
+		   title "View In",
+		   :stroke => white
+			
+		   flow do
+		    @btn_1 = button "A"
+                    @btn_1.style(:height => 50)
+		    @btn_1.click { 
+	
+			Shoes.app :title => "Android Intents" do
+  		  	  image "xml_file.gif"
+                        end 
+ 
+		    }
+
+		    para "Console",
+		    :size => 30,
+		    :stroke => darkgray
+                   end
+
+	           flow do
+		    @btn_2 = button "B"
+                    @btn_2.style(:height => 50)
+		    @btn_2.click { 
+			
+			Shoes.app :title => "Android Intents" do
+  		  	 image "xml_file.gif"
+                        end 
+			
+	            }
+
+		    para "Window",
+		    :size => 30,
+		    :stroke => darkgray
+                   end	
+		
+		end
+	       end				
+
+	     }
+              end 
+
+        end
+       end
+      end          
+
+   }
+
+     @option_1 = para "Filter"
+     @option_1.size = 30
+     @option_1.stroke = darkgray 
+    end
+    
+ 
+    flow do 
+     @btn_2 = button "B"
+     @btn_2.style(:height => 50)
+     @btn_2.click { 
+
+	Shoes.app :title => "Android Intents", :width => 350, :height => 410 do 
+	  background white 
+          stack :margin => 10 do 
+
+            title "Sort By",
+            :stroke => black, 
+            :size => 20
+
+             stack do 
+	      
+	      flow do
+              @chk_1 = check
+              # @chk_1.click { }
+  	      
+              @option_1 = para "Category A"
+              @option_1.size = 14
+              @option_1.stroke = darkgray
+              end 
+
+              flow do
+              @chk_2 = check
+              # @chk_2.click { }
+  	      
+              @option_2 = para "Category B"
+              @option_2.size = 14
+              @option_2.stroke = darkgray
+              end 
+
+              flow do
+              @chk_3 = check
+              # @chk_3.click { }
+  	      
+              @option_3 = para "Category C"
+              @option_3.size = 14
+              @option_3.stroke = darkgray
+              end 
+ 
+              flow do
+              @chk_4 = check
+              # @chk_4.click { }
+  	      
+              @option_4 = para "Category D"
+              @option_4.size = 14
+              @option_4.stroke = darkgray
+              end 
+
+              flow do
+              @chk_5 = check
+              # @chk_5.click { }
+  	      
+              @option_5 = para "Category E"
+              @option_5.size = 14
+              @option_5.stroke = darkgray
+              end 
+ 
+              flow do
+              @chk_6 = check
+              # @chk_6.click { }
+  	      
+              @option_6 = para "Category F"
+              @option_6.size = 14
+              @option_6.stroke = darkgray
+              end
+
+	      flow do 
+              @btn_1 = button "Submit"
+	      @btn_1.click {
+
+		Shoes.app :title => "Android Intents", :width => 350, :height => 250 do 
+		  background black
+		  stack do 
+
+		   title "View In",
+		   :stroke => white
+			
+		   flow do
+		    @btn_1 = button "A"
+                    @btn_1.style(:height => 50)
+		    @btn_1.click { 
+	
+			Shoes.app :title => "Android Intents" do
+  		  	  image "xml_file.gif"
+                        end 
+ 
+		    }
+
+		    para "Console",
+		    :size => 30,
+		    :stroke => darkgray
+                   end
+
+	           flow do
+		    @btn_2 = button "B"
+                    @btn_2.style(:height => 50)
+		    @btn_2.click { 
+			
+			Shoes.app :title => "Android Intents" do
+  		  	 image "xml_file.gif"
+                        end 
+			
+	            }
+
+		    para "Window",
+		    :size => 30,
+		    :stroke => darkgray
+                   end	
+		
+		end
+	       end				
+
+	      }
+              end
+   
+	  end 
+         end
+        end          
+
+     }
+
+     @option_2 = para "Sort"
+     @option_2.size = 30
+     @option_2.stroke = darkgray 
+    end
+
+    flow do 
+     @btn_3 = button "C"
+     @btn_3.style(:height => 50)
+     @btn_3.click { 
+
+	Shoes.app :title => "Android Intents" do
+          image "nodes-edges.png"
+        end  
+
+     }
+
+     @option_3 = para "Graph"
+     @option_3.size = 30
+     @option_3.stroke = darkgray 
+    end
+ end
+end

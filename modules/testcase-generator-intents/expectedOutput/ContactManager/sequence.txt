@@ -1,0 +1,6 @@
+
+com.example.android.contactmanager/.ContactManager --> com.example.android.contactmanager/.ContactAdder
+
+Sequence 1
+am start -n com.example.android.contactmanager/.ContactManager
+am start -n com.example.android.contactmanager/.ContactAdder android.permission.INTERNET android.permission.GET_ACCOUNTS android.permission.READ_CONTACTS android.permission.WRITE_CONTACTS 

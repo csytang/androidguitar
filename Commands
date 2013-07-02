@@ -1,0 +1,5 @@
+./sel-workflow-mediawiki.sh
+./sel-workflow-drupal.sh
+./sel-workflow-wordpress.sh
+./sel-workflow-bugzilla.sh
+./sel-workflow-mantis.sh

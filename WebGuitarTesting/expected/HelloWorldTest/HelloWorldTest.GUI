@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GUIStructure>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>https://googledrive.com/host/0B6TP-LuwGMgZbERwOXF5ZTNzWW8/helloworld.html</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>true</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>true</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w2375809004</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>body</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w3111507976</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>150</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>23</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>br</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w3481765900</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>43</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>div</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w2963599844</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>43</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>ul</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w2753660508</Value>
+                </Property>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>48</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>43</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>li</Value>
+                </Property>
+                <Property>
+                    <Name>Tag ID</Name>
+                    <Value></Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w503561656</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>48</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>45</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>label</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w2464527168</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>52</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>46</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.WebToggleCheckbox</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>input</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+<Property>
+    <Name>Name</Name>
+    <Value>entry.0.group</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w2753660570</Value>
+                </Property>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>48</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>64</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>li</Value>
+                </Property>
+                <Property>
+                    <Name>Tag ID</Name>
+                    <Value></Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w503565500</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>48</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>66</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>label</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w2464765496</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>52</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>67</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.WebToggleCheckbox</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>input</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+<Property>
+    <Name>Name</Name>
+    <Value>entry.0.group</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w2753660632</Value>
+                </Property>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>48</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>85</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>li</Value>
+                </Property>
+                <Property>
+                    <Name>Tag ID</Name>
+                    <Value></Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w503569344</Value>
+                        </Property>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>48</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>87</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>label</Value>
+                        </Property>
+                        <Property>
+                            <Name>Tag ID</Name>
+                            <Value></Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w2465003824</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>52</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>88</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.WebToggleCheckbox</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>input</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+<Property>
+    <Name>Name</Name>
+    <Value>entry.0.group</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w2684831324</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>122</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.WebEvent</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>a</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+<Property>
+    <Name>Href</Name>
+    <Value>http://www.google.com/</Value>
+</Property>
+<Property>
+    <Name>Name</Name>
+    <Value></Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>ID</Name>
+    <Value>w4040274900</Value>
+</Property>
+<Property>
+    <Name>Class</Name>
+    <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>141</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>form</Value>
+</Property>
+<Property>
+    <Name>Tag ID</Name>
+    <Value></Value>
+</Property>
+<Property>
+    <Name>Name</Name>
+    <Value>input</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w3113207620</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>100</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>141</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.WebTextBox</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>input</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>ID</Name>
+            <Value>w3113207682</Value>
+        </Property>
+        <Property>
+            <Name>Class</Name>
+            <Value>org.openqa.selenium.firefox.FirefoxWebElement</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>TERMINAL</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>339</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>141</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.WebSubmit</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>input</Value>
+        </Property>
+        <Property>
+            <Name>Tag ID</Name>
+            <Value></Value>
+        </Property>
+        <Property>
+            <Name>Name</Name>
+            <Value></Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+</GUIStructure>

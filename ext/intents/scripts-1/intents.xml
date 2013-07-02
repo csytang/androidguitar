@@ -1,0 +1,239 @@
+<Events>
+<guitar>
+	<info>click: abutton</info>
+</guitar>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<flag>0x10000000</flag>
+	<component>com.android.sdksetup/.DefaultActivity</component>
+</intent>
+<intent>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<flag>0x10000000</flag>
+	<component>com.android.launcher/com.android.launcher2.Launcher</component>
+</intent>
+<intent>
+	<action>-</action>
+	<category>-</category>
+	<flag>0x10000000</flag>
+	<component>net.everythingandroid.timer/.TimerActivity</component>
+</intent>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:Timer.start()</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:Notification</info>
+</application-event>
+<guitar>
+	<info>getContainer:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>click: ksdgnap</info>
+</guitar>
+<application-event>
+	<info>EVENT:Timer.start()</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerViewHandler:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<guitar>
+	<info>click: xasmdkasd</info>
+</guitar>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:All</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerViewHandler:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>getChildren:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<guitar>
+	<info>child:</info>
+</guitar>
+<intent>
+	<action>-</action>
+	<category>-</category>
+	<flag>0x10000000</flag>
+	<component>net.everythingandroid.timer/.TimerActivity</component>
+</intent>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:Timer.start()</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:Notification</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<intent>
+	<action>-</action>
+	<category>-</category>
+	<flag>0x10000000</flag>
+	<component>net.everythingandroid.timer/.TimerActivity</component>
+</intent>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:Timer.start()</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:TimerActivity:</info>
+</application-event>
+<application-event>
+	<info>EVENT:Notification</info>
+</application-event>
+</Events>

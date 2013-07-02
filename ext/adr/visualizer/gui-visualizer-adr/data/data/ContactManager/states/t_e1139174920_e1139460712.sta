@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCase>
+    <GUIStructure/>
+    <Step>
+        <EventId>e1139460712</EventId>
+        <ReachingStep>true</ReachingStep>
+        <GUIStructure/>
+    </Step>
+    <Step>
+        <EventId>e1139174920</EventId>
+        <ReachingStep>false</ReachingStep>
+        <GUIStructure/>
+    </Step>
+    <Step>
+        <EventId>e1139460712</EventId>
+        <ReachingStep>false</ReachingStep>
+        <GUIStructure/>
+    </Step>
+</TestCase>

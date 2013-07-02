@@ -1,0 +1,8 @@
+package: net.mandaria.tippytipper
+activity: .activities.TippyTipper (main launcher activity)
+activity: .activities.Total
+activity: .activities.SplitBill
+activity: .activities.About
+activity: .activities.Settings
+permission: android.permission.INTERNET
+permission: android.permission.INJECT_EVENTS

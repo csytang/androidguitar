@@ -1,0 +1,88 @@
+[main] ERROR configuration.xml not found!!!
+[main] ERROR No configuration file. Using an empty one...
+[main] INFO  Number of root windows: 1
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *com.example.android.contactmanager.ContactManager*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Add Contact*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*com.example.android.contactmanager.ContactAdder*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *com.example.android.contactmanager.ContactAdder*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Save*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  -----------------------------
+[main] INFO  OUTPUT SUMARY: 
+[main] INFO  Number of Windows: 2
+[main] INFO  Ripping Elapsed: 00 : 02 : 11: 865
+[main] INFO  Log file: ./Demo/Demo.log

@@ -1,0 +1,7 @@
+package: edu.towson.cosc451.nimbian
+permission: android.permission.ACCESS_WIFI_STATE
+permission: android.permission.CHANGE_WIFI_STATE
+permission: android.permission.INTERNET
+permission: android.permission.INJECT_EVENTS
+activity: .ToDoManagerActivity (main launcher activity)
+activity: .addtodo

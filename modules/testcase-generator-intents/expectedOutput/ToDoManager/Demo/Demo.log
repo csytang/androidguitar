@@ -1,0 +1,116 @@
+[main] ERROR configuration.xml not found!!!
+[main] ERROR No configuration file. Using an empty one...
+[main] INFO  Number of root windows: 1
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *edu.towson.cosc451.nimbian.ToDoManagerActivity*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Add New ToDO*...
+[main] INFO  1 new window(s) opened!!!
+[main] INFO  *	 Title:*edu.towson.cosc451.nimbian.addtodo*
+[main] INFO  ------- BEGIN WINDOW -------
+[main] INFO  Ripping window: *edu.towson.cosc451.nimbian.addtodo*
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Not Done*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Done*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Low*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Medium*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *High*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Cancel*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Reset*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Expanding *Submit*...
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  
+[main] INFO  ------------ BEGIN COMPONENT ----------
+[main] INFO  Component is Unexpandable
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  ------------- END COMPONENT -----------
+[main] INFO  -------- END WINDOW --------
+[main] INFO  -----------------------------
+[main] INFO  OUTPUT SUMARY: 
+[main] INFO  Number of Windows: 2
+[main] INFO  Ripping Elapsed: 00 : 02 : 46: 626
+[main] INFO  Log file: ./Demo/Demo.log

@@ -1,0 +1,6 @@
+
+edu.towson.cosc451.nimbian/.ToDoManagerActivity --> edu.towson.cosc451.nimbian/.addtodo
+
+Sequence 1
+am start -n edu.towson.cosc451.nimbian/.ToDoManagerActivity
+am start -n edu.towson.cosc451.nimbian/.addtodo android.permission.ACCESS_WIFI_STATE android.permission.CHANGE_WIFI_STATE android.permission.INTERNET android.permission.INJECT_EVENTS 

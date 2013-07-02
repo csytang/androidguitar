@@ -1,0 +1,3523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GUIStructure>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>net.mandaria.tippytipper.activities.SplitBill</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>848003954</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139676544</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>234589163</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.ScrollView</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.ScrollView</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139677800</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>223979120</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.LinearLayout</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.LinearLayout</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139679176</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>462676988</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableLayout</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>38</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableLayout</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139679800</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>276084665</Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139680880</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>680096056</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139681464</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>1310200</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>39</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Subtotal:</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139682128</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>429059475</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139744208</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>46675191</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>76</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139745192</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>594621939</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.view.ViewStub</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>TERMINAL</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>76</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.view.ViewStub</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139745848</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>1009517009</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>76</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139746200</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>571083998</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>76</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139746784</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>888131590</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>77</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Tip:</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139747376</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>874476807</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>76</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139748440</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>192406444</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>114</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139749504</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>114727890</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>114</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139750088</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>386408278</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>115</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Adjustment:</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139750680</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>363337624</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>114</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139751824</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1027278685</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Widget>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>16</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>160</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139752888</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>603683029</Value>
+                        </Property>
+                    </Attributes>
+                </Widget>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>170</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139753536</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>570314086</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>170</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139754120</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>405240428</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>171</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Total:</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139754712</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>329592665</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>170</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139755776</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>210716174</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Widget>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>220</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139756840</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>333944070</Value>
+                        </Property>
+                    </Attributes>
+                </Widget>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>230</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139757488</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>1065854988</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.TextView</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>230</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>Number of people:</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139758072</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>615653426</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>267</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139759272</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>191411800</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>9</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>267</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139759856</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>555870953</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>9</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>275</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139760912</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>101003585</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TextView</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>108</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>275</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>2</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139720144</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>338223046</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>148</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>275</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>plus</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139721312</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>535836480</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>9</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>275</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>minus</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139761560</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>224660355</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>net.mandaria.tippytipper.activities.Total</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>1010155709</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139632992</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>259880433</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.ScrollView</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.ScrollView</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139222096</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>861296527</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.LinearLayout</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.LinearLayout</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139309424</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>906219934</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TableLayout</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>38</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.TableLayout</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139360976</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>578340119</Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1138982904</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>910444443</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1138951608</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>87870102</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>39</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Subtotal:</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1138965000</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>113461556</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139132752</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>208493654</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Widget>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>16</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>122</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139172000</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>516716683</Value>
+                        </Property>
+                    </Attributes>
+                </Widget>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>307</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139200456</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>511639476</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>307</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139201040</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>85428472</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>307</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139202096</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>659058890</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>307</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>Round Down</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139202680</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>976413295</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>130</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>307</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>Round Up</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139834832</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>845412176</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>229</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139250048</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>618340367</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.SeekBar</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>TERMINAL</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>229</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.SeekBar</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139251240</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>296921234</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Widget>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>182</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139255112</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>592216527</Value>
+                        </Property>
+                    </Attributes>
+                </Widget>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>132</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139356392</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>7122583</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>132</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139356976</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>879024125</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>132</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139254048</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>998445010</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>133</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Total:</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139357568</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1060498890</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>271</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139625616</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>816438887</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>9</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>271</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139626200</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>606198654</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>9</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>271</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139627256</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>875029882</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>83</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>271</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>15%</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139196448</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>954370194</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>157</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>271</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>20%</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139198296</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>907341194</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.Button</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>9</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>271</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>10%</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139627904</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>576950377</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>76</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139631560</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>393712423</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.view.ViewStub</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>TERMINAL</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>76</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.view.ViewStub</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139660584</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>510942339</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>192</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139642872</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>701310281</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>192</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139643456</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>1062115461</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>192</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139306688</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1022255604</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TextView</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>204</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>Tip Percentage:</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139307040</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>730656350</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TextView</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>148</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>192</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>0%</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139308240</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>108156609</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>76</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139660936</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>7252511</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>36</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>76</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139302880</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>18505695</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>76</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>$0.00</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139170936</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1039369954</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>36</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>77</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Tip (10.0%):</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139303472</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>644212436</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>343</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139837000</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>853691608</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>343</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>Split Bill</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139837584</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>718661606</Value>
+</Property>
+<Property>
+    <Name>Invokelist</Name>
+    <Value>net.mandaria.tippytipper.activities.SplitBill</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>251</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.TableRow</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139949552</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>596075969</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>251</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.TableLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139949904</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>45649045</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>8</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>251</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.TableRow</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139950272</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>617142722</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TextView</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>31</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>251</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>0%</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139194032</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>517827936</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TextView</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>118</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>251</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>40%</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139624936</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>340021079</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>net.mandaria.tippytipper.activities.TippyTipper</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>true</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>847510904</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139434272</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>851717324</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.ScrollView</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.ScrollView</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139443104</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>367412695</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Container>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.LinearLayout</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>android.widget.LinearLayout</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139091224</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>599671069</Value>
+        </Property>
+    </Attributes>
+    <Contents>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.TextView</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>38</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>Enter bill amount:</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139120680</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>885388907</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Widget>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.EditText</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>TERMINAL</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>75</Value>
+                </Property>
+                <Property>
+                    <Name>ReplayableAction</Name>
+                    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>$0.00</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139121720</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>151242092</Value>
+                </Property>
+            </Attributes>
+        </Widget>
+        <Container>
+            <Attributes>
+                <Property>
+                    <Name>Class</Name>
+                    <Value>android.widget.LinearLayout</Value>
+                </Property>
+                <Property>
+                    <Name>Type</Name>
+                    <Value>SYSTEM INTERACTION</Value>
+                </Property>
+                <Property>
+                    <Name>X</Name>
+                    <Value>8</Value>
+                </Property>
+                <Property>
+                    <Name>Y</Name>
+                    <Value>131</Value>
+                </Property>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>android.widget.LinearLayout</Value>
+                </Property>
+                <Property>
+                    <Name>ID</Name>
+                    <Value>w1139149888</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>738440752</Value>
+                </Property>
+            </Attributes>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>215</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139025664</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>360873013</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>11</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>218</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>1</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139083840</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>316216484</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>86</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>218</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>2</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139090480</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>600754938</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>161</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>218</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>3</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139092528</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>504250818</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>257</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139116992</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>232108317</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>161</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>260</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>CLEAR</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139057808</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>155137171</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>11</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>260</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>DEL</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139093272</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>772052248</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>86</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>260</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139095472</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>164651200</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>299</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139147960</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>274826904</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>11</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>302</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>Calculate!</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139119096</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>496778639</Value>
+</Property>
+<Property>
+    <Name>Invokelist</Name>
+    <Value>net.mandaria.tippytipper.activities.Total</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>131</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139153352</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>632842567</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>11</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>134</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>7</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139122560</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>665283135</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>86</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>134</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>8</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139325472</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>801001369</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>161</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>134</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>9</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139441192</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>862717139</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>8</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>173</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.LinearLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139325048</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>899259939</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>161</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>176</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>6</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139061472</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>508947661</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>11</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>176</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>4</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139442208</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>35371442</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                        <Widget>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.Button</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>86</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>176</Value>
+</Property>
+<Property>
+    <Name>ReplayableAction</Name>
+    <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>5</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139446344</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>938981415</Value>
+</Property>
+                            </Attributes>
+                        </Widget>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </Contents>
+</Container>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+</GUIStructure>

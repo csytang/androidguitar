@@ -1,0 +1,15 @@
+{"intent": [
+
+{"activity":"addtodo","packageName":"edu.towson.cosc451.nimbian",
+"declaration": ["new Intent();.putExtra(ID1, task);.putExtra(ID3, priority)"]
+},
+
+{"activity":"addtodo","packageName":"edu.towson.cosc451.nimbian",
+"declaration": ["new Intent(addtodo.this,ToDoManagerActivity.class);startActivity(addIntent)","startActivity(addIntent)"]
+},
+
+{"activity":"ToDoManagerActivity","packageName":"edu.towson.cosc451.nimbian",
+"declaration": ["new Intent(ToDoManagerActivity.this,addtodo.class);startActivity(addIntent)"]
+}
+]
+}

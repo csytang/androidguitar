@@ -1,0 +1,97 @@
+
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.A_Activity --> rohan.makes.intents/.A1_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.A_Activity --> rohan.makes.intents/.A2_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.A_Activity --> rohan.makes.intents/.A3_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.A_Activity --> rohan.makes.intents/.A4_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.B_Activity --> rohan.makes.intents/.B1_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.B_Activity --> rohan.makes.intents/.B2_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.B_Activity --> rohan.makes.intents/.B3_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.B_Activity --> rohan.makes.intents/.B4_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.C_Activity --> rohan.makes.intents/.C1_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.C_Activity --> rohan.makes.intents/.C2_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.C_Activity --> rohan.makes.intents/.C3_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.C_Activity --> rohan.makes.intents/.C4_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.D_Activity --> rohan.makes.intents/.D1_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.D_Activity --> rohan.makes.intents/.D2_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.D_Activity --> rohan.makes.intents/.D3_Activity
+rohan.makes.intents/.LotsoIntents16ActivitiesActivity --> rohan.makes.intents/.D_Activity --> rohan.makes.intents/.D4_Activity
+
+Sequence 1
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.A_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.A1_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 2
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.A_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.A2_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 3
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.A_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.A3_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 4
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.A_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.A4_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 5
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.B_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.B1_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 6
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.B_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.B2_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 7
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.B_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.B3_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 8
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.B_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.B4_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 9
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.C_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.C1_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 10
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.C_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.C2_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 11
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.C_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.C3_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 12
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.C_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.C4_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 13
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.D_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.D1_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 14
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.D_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.D2_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 15
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.D_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.D3_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+
+Sequence 16
+am start -n rohan.makes.intents/.LotsoIntents16ActivitiesActivity
+am start -n rohan.makes.intents/.D_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 
+am start -n rohan.makes.intents/.D4_Activity android.permission.INTERNET android.permission.INJECT_EVENTS 

@@ -1,0 +1,11 @@
+{"intent": [
+
+{"activity":"ContactAdder","packageName":"",
+"declaration": ["new Intent(ContactAdder.this,ContactManager.class);startActivity(addIntent)"]
+},
+
+{"activity":"ContactManager","packageName":"com.example.android.contactmanager",
+"declaration": ["new Intent(this, ContactAdder.class);startActivity(i)"]
+}
+]
+}

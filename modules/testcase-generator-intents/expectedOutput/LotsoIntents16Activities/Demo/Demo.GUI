@@ -1,0 +1,3449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GUIStructure>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.A1_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>804168870</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139330312</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>309125113</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139192296</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>268494982</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is A1 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139192912</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>768319491</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.A4_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>454655610</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1138950320</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>748986047</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139126744</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>665794322</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is A4 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139127360</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>995419973</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.A2_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>680338738</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139825408</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>283190175</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139826576</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>42730591</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is A2 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139827192</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>61441022</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.A3_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>823839888</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139651296</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>197676902</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139652464</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>755268204</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is A3 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139653080</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>261441487</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.A_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>725538345</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139110232</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>66215075</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139076296</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>659893008</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is A_Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139079328</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>449122615</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>83</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity A1</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139156040</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>742186767</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.A1_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>191</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity A4</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139275960</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>837239545</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.A4_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity A2</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139460744</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1003823703</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.A2_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>155</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity A3</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139468992</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>180138709</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.A3_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.B1_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>533339212</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139493344</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>281118392</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139494512</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>722955214</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is B1 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139495128</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>153130605</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.B3_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>149691557</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1138984040</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>113335461</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139039288</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>244601752</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is B3 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139030568</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>262893929</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.B2_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>100292783</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139294568</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>380422479</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139295688</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>900239921</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is B2 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139179824</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>122182164</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.B4_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>315378204</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139739208</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>701382355</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139740376</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>485990819</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is B4 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139516840</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>150507587</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.B_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>882380264</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139003056</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>426300435</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139124944</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>247970589</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>83</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity B1</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1138963496</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>578003251</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.B1_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is B_Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139125400</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>383339950</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>155</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity B3</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139576984</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>173896886</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.B3_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity B2</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139646000</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>158692782</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.B2_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>191</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity B4</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139828776</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>645075980</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.B4_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.C3_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>399735008</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139969016</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>704776859</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139970184</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>804680867</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is C3 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139970800</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>654814040</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.C4_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>133328867</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139590016</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>570608234</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139591104</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>1020027810</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is C4 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139591720</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1003712720</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.C1_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>946176950</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139163432</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>458172907</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139164848</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>188748246</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is C1 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139100752</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>686255575</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.C2_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>14587591</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139475224</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>980521996</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139476344</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>1063519472</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is C2 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139476960</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>436613796</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.C_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>438201779</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139639600</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>545795631</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139640680</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>999228918</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>155</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity C3</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139394848</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>22327930</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.C3_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>191</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity C4</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139396984</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>170102537</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.C4_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is C_Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139641296</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>373404245</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>83</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity C1</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139642512</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>529706928</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.C1_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity C2</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139644720</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1066324205</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.C2_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.D1_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>215054251</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139331672</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>839139671</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139518672</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>675758908</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is D1 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139496288</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>648480378</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.D2_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>659188491</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139787600</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>607557975</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139788768</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>524489780</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is D2 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139789384</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>608391897</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.D3_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>639368516</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139411680</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>447149645</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139412768</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>400429656</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is D3 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139413384</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>793301596</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.D4_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>186973204</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139993856</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>468400039</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139994944</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>585472597</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is D4 Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139995560</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>501732408</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.D_Activity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>925690721</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139366888</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>372660001</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139368032</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>932410101</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is D_Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139368648</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>1060921956</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>83</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity D1</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139369864</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>156289427</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.D1_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity D2</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139842600</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>144268849</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.D2_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>155</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity D3</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139844736</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>794575500</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.D3_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>191</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity D4</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139846872</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>929338392</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.D4_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+    <GUI>
+        <Window>
+            <Attributes>
+                <Property>
+                    <Name>Title</Name>
+                    <Value>rohan.makes.intents.LotsoIntents16ActivitiesActivity</Value>
+                </Property>
+                <Property>
+                    <Name>Modal</Name>
+                    <Value>false</Value>
+                </Property>
+                <Property>
+                    <Name>Rootwindow</Name>
+                    <Value>true</Value>
+                </Property>
+                <Property>
+                    <Name>UUID</Name>
+                    <Value>728292621</Value>
+                </Property>
+            </Attributes>
+        </Window>
+        <Container>
+            <Contents>
+                <Container>
+                    <Attributes>
+                        <Property>
+                            <Name>Class</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>Type</Name>
+                            <Value>SYSTEM INTERACTION</Value>
+                        </Property>
+                        <Property>
+                            <Name>X</Name>
+                            <Value>0</Value>
+                        </Property>
+                        <Property>
+                            <Name>Y</Name>
+                            <Value>38</Value>
+                        </Property>
+                        <Property>
+                            <Name>Title</Name>
+                            <Value>android.widget.FrameLayout</Value>
+                        </Property>
+                        <Property>
+                            <Name>ID</Name>
+                            <Value>w1139299472</Value>
+                        </Property>
+                        <Property>
+                            <Name>UUID</Name>
+                            <Value>310234006</Value>
+                        </Property>
+                    </Attributes>
+                    <Contents>
+                        <Container>
+                            <Attributes>
+<Property>
+    <Name>Class</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>Type</Name>
+    <Value>SYSTEM INTERACTION</Value>
+</Property>
+<Property>
+    <Name>X</Name>
+    <Value>0</Value>
+</Property>
+<Property>
+    <Name>Y</Name>
+    <Value>38</Value>
+</Property>
+<Property>
+    <Name>Title</Name>
+    <Value>android.widget.LinearLayout</Value>
+</Property>
+<Property>
+    <Name>ID</Name>
+    <Value>w1139324288</Value>
+</Property>
+<Property>
+    <Name>UUID</Name>
+    <Value>1049132181</Value>
+</Property>
+                            </Attributes>
+                            <Contents>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.TextView</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>38</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>This is the Main Activity</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139114672</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>533965828</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>83</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity A</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139115712</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>323977943</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.A_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>119</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity B</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139116552</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>752703150</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.B_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>155</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity C</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139273704</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>131041733</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.C_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+<Widget>
+    <Attributes>
+        <Property>
+            <Name>Class</Name>
+            <Value>android.widget.Button</Value>
+        </Property>
+        <Property>
+            <Name>Type</Name>
+            <Value>SYSTEM INTERACTION</Value>
+        </Property>
+        <Property>
+            <Name>X</Name>
+            <Value>0</Value>
+        </Property>
+        <Property>
+            <Name>Y</Name>
+            <Value>191</Value>
+        </Property>
+        <Property>
+            <Name>ReplayableAction</Name>
+            <Value>edu.umd.cs.guitar.event.ADRActionHandler</Value>
+        </Property>
+        <Property>
+            <Name>Title</Name>
+            <Value>Call Activity D</Value>
+        </Property>
+        <Property>
+            <Name>ID</Name>
+            <Value>w1139378760</Value>
+        </Property>
+        <Property>
+            <Name>UUID</Name>
+            <Value>738934050</Value>
+        </Property>
+        <Property>
+            <Name>Invokelist</Name>
+            <Value>rohan.makes.intents.D_Activity</Value>
+        </Property>
+    </Attributes>
+</Widget>
+                            </Contents>
+                        </Container>
+                    </Contents>
+                </Container>
+            </Contents>
+        </Container>
+    </GUI>
+</GUIStructure>

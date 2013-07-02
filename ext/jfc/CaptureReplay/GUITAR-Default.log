@@ -1,0 +1,171 @@
+[main] INFO  ------- BEGIN REPLAY -------
+[main] ERROR configuration.xml not found!!!
+[main] INFO  ------ BEGIN TESTCASE -----
+[main] INFO  Setting up JFCReplayer monitor
+[main] INFO  Connecting to application
+[main] INFO  Loading URL
+[main] INFO  Loading URL - DONE
+[main] INFO  Waiting for applicationt to start 0ms
+[main] INFO  Application is connected.
+[main] INFO  Test monitor: edu.umd.cs.guitar.replayer.JFCReplayerMonitor is initialized
+[main] INFO  Test monitor: edu.umd.cs.guitar.replayer.JFCReplayerMonitor is initialized
+[main] INFO  Testcase size 9 steps
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e711447054
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w711447054
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w711447054
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = Square
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 365
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1065377666
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w1065377666
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w1065377666
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = Color
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 202
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1463262360
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w1463262360
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w1463262360
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = None
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 222
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1912600424
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w1912600424
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w1912600424
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = Circle
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 165
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e249906172
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w249906172
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w249906172
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = Create Shape
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 182
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e1065377666
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w1065377666
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w1065377666
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = Color
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 194
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e711447054
+[main] INFO  Waiting for window:
+[main] INFO  Window Title = Radio Button Demo
+[main] INFO  Widget ID    = w711447054
+[main] INFO  getOwnedWindowByID: Looking for Radio Button Demo got Radio Button Demo
+[main] INFO  FOUND window
+[main] INFO  
+[main] INFO  Searching for widget:
+[main] INFO  Widget ID = w711447054
+[main] INFO  FOUND widget
+[main] INFO  Widget Title = Square
+[main] INFO  Action: *edu.umd.cs.guitar.event.JFCActionHandler
+[main] INFO  
+[main] INFO  Delaying for 0 ms to get a stable GUI state....
+[main] INFO  Recording GUI state....
+[main] INFO  DONE
+[main] INFO  Dumping out state ... 
+[main] INFO  DONE
+[main] INFO  Step Timer elapsed Time: 200
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- BEGIN STEP --------
+[main] INFO  Executing Step EventID = e3950923487
+[main] ERROR Step Event ID = e3950923487. Not found in EFG.
+[main] INFO  -------- END STEP ---------
+[main] INFO  ------- END TESTCASE ------
+[main] ERROR GUITAR exception
+[main] INFO  Pass status    : -2
+[main] INFO  Time Elapsed   : 00 : 00 : 03: 234
+[main] INFO  Testcase       : /tmp/guest-tqqcTT/Documents/guitar/guitar/ext/jfc/CaptureReplay/Test/Test.TST
+[main] INFO  Log file       : 20120419072047.log
+[main] INFO  GUI state file : GUITAR-Default.STA
+[main] INFO  -------- END REPLAY --------

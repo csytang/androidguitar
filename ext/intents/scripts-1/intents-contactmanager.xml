@@ -1,0 +1,711 @@
+<Events>
+<intent>
+	<date-time>03-17 22:48:38.866</date-time>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<flag> 0x10000000</flag>
+	<component>com.android.sdksetup/.DefaultActivity</component>
+</intent>
+<intent>
+	<date-time>03-17 22:48:46.557</date-time>
+	<action>android.intent.action.MAIN</action>
+	<category>[android.intent.category.HOME]</category>
+	<flag> 0x10000000</flag>
+	<component>com.android.launcher/com.android.launcher2.Launcher</component>
+</intent>
+<intent>
+	<date-time>03-17 22:49:36.325</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:49:36.395</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<guitar>
+	<date-time>03-17 22:49:40.058</date-time>
+	<info>getContainer: android.widget.FrameLayout@43ea8f30</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:41.094</date-time>
+	<info>getChildren: android.widget.FrameLayout@43ea8f30</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:41.424</date-time>
+	<info>child: android.widget.LinearLayout@43ea9418</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:43.133</date-time>
+	<info>getChildren: android.widget.LinearLayout@43ea9418</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:43.574</date-time>
+	<info>child: android.widget.ListView@43ea9898</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:43.574</date-time>
+	<info>child: android.widget.CheckBox@43eaaf50</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:43.595</date-time>
+	<info>child: android.widget.Button@43eabe48</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:45.374</date-time>
+	<info>click: Add</info>
+</guitar>
+<application-event>
+	<date-time>03-17 22:49:47.574</date-time>
+	<info>mAddAccountButton clicked</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:49:47.574</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag>-</flag>
+	<component>com.example.android.contactmanager/.ContactAdder</component>
+</intent>
+<guitar>
+	<date-time>03-17 22:49:49.445</date-time>
+	<info>getContainer: android.widget.FrameLayout@43e8c838</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:50.014</date-time>
+	<info>getContainer: android.widget.FrameLayout@43e8c838</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:53.544</date-time>
+	<info>getChildren: android.widget.FrameLayout@43e8c838</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:54.255</date-time>
+	<info>child: android.widget.ScrollView@43ead900</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:49:54.954</date-time>
+	<info>child: android.widget.ScrollView@43ead900</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:00.575</date-time>
+	<info>getChildren: android.widget.ScrollView@43ead900</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:01.265</date-time>
+	<info>child: android.widget.TableLayout@43e2fd98</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:01.955</date-time>
+	<info>child: android.widget.TableLayout@43e2fd98</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:07.387</date-time>
+	<info>getChildren: android.widget.TableLayout@43e2fd98</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.245</date-time>
+	<info>child: android.widget.TableRow@43e596c0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.245</date-time>
+	<info>child: android.widget.TableRow@43e81ae8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.245</date-time>
+	<info>child: android.widget.TableRow@43e7bd28</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.245</date-time>
+	<info>child: android.widget.TableRow@43e8f208</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.245</date-time>
+	<info>child: android.widget.TableRow@43e7ffc0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.265</date-time>
+	<info>child: android.widget.TableRow@43e806b0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.265</date-time>
+	<info>child: android.widget.TableRow@43e7b1f8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.265</date-time>
+	<info>child: android.widget.TableRow@43e835b8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.285</date-time>
+	<info>child: android.widget.TableRow@43e31a80</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.955</date-time>
+	<info>child: android.widget.TableRow@43e596c0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.955</date-time>
+	<info>child: android.widget.TableRow@43e81ae8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e7bd28</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e8f208</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e7ffc0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e806b0</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e7b1f8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e835b8</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:08.975</date-time>
+	<info>child: android.widget.TableRow@43e31a80</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:14.695</date-time>
+	<info>getChildren: android.widget.TableRow@43e31a80</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:15.514</date-time>
+	<info>child: android.widget.Button@43e5aa18</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:16.215</date-time>
+	<info>child: android.widget.Button@43e5aa18</info>
+</guitar>
+<guitar>
+	<date-time>03-17 22:50:19.349</date-time>
+	<info>click: Save</info>
+</guitar>
+<intent>
+	<date-time>03-17 22:50:22.614</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag>-</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:50:22.794</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:50:40.344</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:50:40.460</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:50:51.614</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:50:51.686</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:51:18.124</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:51:18.206</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:51:27.035</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:51:27.115</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:51:50.725</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:51:50.804</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:51:59.555</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:51:59.635</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:52:23.114</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:52:23.215</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:52:31.924</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:52:31.994</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:52:55.624</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:52:55.706</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:53:04.554</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:53:04.634</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:53:28.454</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:53:28.536</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:53:37.354</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:53:37.454</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:54:01.414</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:54:01.514</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:54:10.514</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:54:10.625</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:54:34.304</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:54:34.384</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:54:43.305</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:54:43.404</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:55:07.394</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:55:07.524</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:55:16.455</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:55:16.545</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:55:40.474</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:55:40.575</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:55:49.555</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:55:49.644</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:56:13.855</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:56:13.945</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:56:22.965</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:56:23.054</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:56:47.254</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:56:47.378</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:56:56.324</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:56:56.400</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:57:20.824</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:57:20.970</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:57:29.676</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:57:29.775</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:57:54.205</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:57:54.294</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:58:03.274</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:58:03.384</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:58:27.924</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:58:28.014</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:58:37.074</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:58:37.184</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:59:01.696</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:59:01.826</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:59:10.834</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:59:10.944</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:59:35.454</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:59:35.594</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 22:59:44.765</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 22:59:44.864</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:00:09.465</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:00:09.557</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:00:19.024</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:00:19.124</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:00:45.535</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:00:45.754</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:00:54.864</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:00:54.974</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:01:19.825</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:01:19.925</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:01:29.175</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:01:29.291</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:01:54.194</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:01:54.285</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:02:03.494</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:02:03.606</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:02:28.984</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:02:29.214</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:02:38.196</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:02:38.315</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:03:03.414</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:03:03.551</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+<intent>
+	<date-time>03-17 23:03:12.704</date-time>
+	<action>-</action>
+	<category>-</category>
+	<flag> 0x10000000</flag>
+	<component>com.example.android.contactmanager/.ContactManager</component>
+</intent>
+<application-event>
+	<date-time>03-17 23:03:12.814</date-time>
+	<info>Activity State: onCreate()</info>
+</application-event>
+</Events>
