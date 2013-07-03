@@ -80,7 +80,7 @@
 
 	<!-- ${adr.name}-guitar config -->
 	<property name="ag.name" value="${adr.name}-guitar" />
-	<property name="ag.modules" value="gui-model-core,gui-model-${adr.name},${arp-spec.modules},${arl-spec.modules},${s2g-spec.modules},${tg-spec.modules},${g2g-spec.modules},${a2e-spec.modules},testcase-generator-bytecode-analysis,gui-vis-adr,gui-electric-adr" />
+	<property name="ag.modules" value="gui-model-core,gui-model-${adr.name},${arp-spec.modules},${arl-spec.modules},${s2g-spec.modules},${tg-spec.modules},${g2g-spec.modules},${a2e-spec.modules},${acp-spec.modules},testcase-generator-bytecode-analysis,gui-vis-adr,gui-electric-adr" />
 	
 	<!-- ${adr.name}-replayer -->
 	<target name="dist-rl" description="distribute ${adr.name}replayer tool">
@@ -131,6 +131,28 @@
 		</move>
 
   </target>
+	
+	<!-- ${adr.name}capture -->
+		<target name="dist-capture" description="distribute ${adr.name}capture tool">
+			<antcall target="dist-tool">
+				<param name="modules" value="${acp.modules}" />
+				<param name="platform" value="${adr.name}" />
+			</antcall>
+
+		</target>
+
+		<target name="pack-capture" depends="backup-guitar,dist-capture">
+			<!-- package -->
+			<antcall target="pack-tool">
+				<param name="tool" value="${acp.name}" />
+			</antcall>
+			<!-- restore guitar -->
+			<delete dir="${global.dist.guitar.dir}" />
+			<move todir="${global.dist.guitar.dir}" failonerror="false">
+				<fileset dir="${tmp.dir}" />
+			</move>
+
+	  </target>
 
 	<!-- ${adr.name}-server -->
 	<target name="dist-asv" description="distribute ${adr.name}-server tool">
