@@ -24,7 +24,7 @@ import com.google.gson.reflect.TypeToken;
 
 public class ADRWindow extends GWindow implements Comparable<ADRWindow> {
 	
-	ADRActivity window;
+	public ADRActivity window;
 	final static int port = 10737;
 	
 	@Override

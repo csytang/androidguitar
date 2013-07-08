@@ -6,6 +6,9 @@ from com.android.monkeyrunner import MonkeyRunner
 # User action Capture tool
 from edu.umd.cs.guitar.capture import ADRCaptureTool    
 
+# global x coordinate to keep track of # of clicks
+x = 0
+
 CMD_MAP = {
     'TOUCH': lambda dev, arg: dev.touch(**arg),
     'DRAG': lambda dev, arg: dev.drag(**arg),
@@ -16,6 +19,8 @@ CMD_MAP = {
 
 # Process a single file for the specified device.
 def process_file(fp, device):
+    global x
+    x = 0
     for line in fp:
         print (line)
         (cmd, rest) = line.split('|')
@@ -36,8 +41,9 @@ def process_file(fp, device):
        # can deal with other cases here in the Python code (probably by ignoring them). Also I think
        # “rest[‘x’]” and “rest[‘y’]” below get the x and y coordinate out of the command, but haven’t
        # tested these.
-
-        ADRCaptureTool.convert_command(rest['x'], rest['y'])
+	x = x + 1
+	if x > 2:
+	        ADRCaptureTool.convert_command(rest['x'], rest['y'])
 
        # Now back in python, we execute the command from recorded_actions.txt (or whatever the
        # original test case file was called). We will already know if the command should activate a
