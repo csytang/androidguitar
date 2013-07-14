@@ -2,6 +2,11 @@
 import os
 import sys
 sys.path.append(os.getcwd() + '/jars/guitar-lib/gui-capture-adr.jar')
+sys.path.append(os.getcwd() + '/jars/guitar-lib/gui-model-adr.jar')
+sys.path.append(os.getcwd() + '/jars/guitar-lib/gui-model-core.jar')
+sys.path.append(os.getcwd() + '/jars/gson-1.7.1.jar')
+sys.path.append(os.getcwd() + '/jars/android.jar')
+
 from com.android.monkeyrunner import MonkeyRunner
 # User action Capture tool
 from edu.umd.cs.guitar.capture import ADRCaptureTool    
@@ -43,6 +48,7 @@ def process_file(fp, device):
        # tested these.
 	x = x + 1
 	if x > 2:
+		print 'Converting command at X-Y: ' + str(rest['x']) + ", " + str(rest['y'])
 	        ADRCaptureTool.convert_command(rest['x'], rest['y'])
 
        # Now back in python, we execute the command from recorded_actions.txt (or whatever the

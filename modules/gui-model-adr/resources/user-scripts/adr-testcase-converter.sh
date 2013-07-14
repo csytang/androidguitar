@@ -302,6 +302,10 @@ main()
  _install_adr-server
  _install_AUT
  
+ # Setup Network Redirection
+ adb shell am startservice -n edu.umd.cs.guitar/.Server -e AUT $AUT
+ adb forward tcp:10737 tcp:10737
+ 
  # This script converts the file format outputed from MonkeyRecorder to .tst format used by other Guitar scripts
  monkeyrunner adr-testcase-converter.py recorded_actions.txt
 

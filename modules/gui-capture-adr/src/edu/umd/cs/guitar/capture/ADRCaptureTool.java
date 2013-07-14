@@ -75,15 +75,16 @@ public class ADRCaptureTool {
 		ADRWindow gWindow;
 		String line;
 		int gWindowID=-1;
-		//final int port = 10737;
-		final int port = 5554;
-		
+
+		final int port = 10737;		
 		int e_ID = -1;
 		String tst_e_ID = "";
 		//This is the list of ADRViews that will be used later to validate the x,y coordinates
 				//List<ADRView> viewObjects = new ArrayList<ADRView>();
 				
+				System.out.println("CaputreTool => Starting CaptureTool's Convert Method");
 				try {
+					System.out.println("CaptureTool => Client Socket connection at port 10737");
 					socket = new Socket();
 					socket.connect(new InetSocketAddress("127.0.0.1", port));
 
@@ -93,11 +94,33 @@ public class ADRCaptureTool {
 					out.write("getRootWindows");
 					out.newLine();
 					out.flush();
+					System.out.println("CaptureTool => Waiting for Response to getRootWindwows");
 					while(!in.ready());
 					line = in.readLine();
 
+					System.out.println("CaptureTool => Server-Response: " + line);
 					gWindow = new ADRWindow(line);
 					gWindowID = gWindow.window.getID();
+					System.out.println("CaptureTool => RootWindowID: " + gWindowID);
+					
+					out.write("getChildren");
+					out.newLine();
+					out.write(String.valueOf(gWindowID));
+					out.newLine();
+					out.flush();
+					System.out.println("CaptureTool => Waiting for Response to getChildren");
+					while(!in.ready());
+					while ((line = in.readLine()) != null) {	
+						System.out.println("CaptureTool => Server-Ressponse: " + line);		
+						Type vlst = new TypeToken<ADRView>() {}.getType();		
+						Gson gson = new Gson();
+
+						if (line.equals("END")) break;
+						
+						ADRView currView = gson.fromJson(line, vlst);
+						
+						viewObjects.add(currView);
+					}
 				} catch (IOException ex) {
 					try {
 						Thread.sleep(500);
@@ -118,61 +141,12 @@ public class ADRCaptureTool {
 						ex.printStackTrace();
 					}
 				}
-				
-				
-				
-				
-				Socket socket2 = null;
-				BufferedReader in2 = null;
-				BufferedWriter out2 = null;
-				String line2;
-				
-				try {
-					socket2 = new Socket();
-					socket2.connect(new InetSocketAddress("127.0.0.1", port));
-
-					out2 = new BufferedWriter(new OutputStreamWriter(socket2.getOutputStream()));
-					in2 = new BufferedReader(new InputStreamReader(socket2.getInputStream(), "utf-8"));
-					
-					out2.write("getChildren");
-					out2.newLine();
-					out2.write(String.valueOf(gWindowID));
-					out2.newLine();
-					out2.flush();
-					while(!in2.ready());
-					while ((line2 = in2.readLine()) != null) {			
-						Type vlst = new TypeToken<ADRView>() {}.getType();		
-						Gson gson = new Gson();
-
-						if (line2.equals("END")) break;
-						
-						ADRView currView = gson.fromJson(line2, vlst);
-						
-						viewObjects.add(currView);
-					}
-				} catch (IOException ex) {
-					ex.printStackTrace();
-				} finally {
-					try {
-						if (out2 != null) {
-							out2.close();
-						}
-						if (in2 != null) {
-							in2.close();
-						}
-						socket2.close();
-					} catch (IOException ex) {
-						ex.printStackTrace();
-					}
-				}
-				
-				
-
-		
-//for loop starts
+													
+		//for loop starts
 		for(int i=0; i<viewObjects.size(); i++){
 			int[] xy = new int[2];
 			viewObjects.get(i).curView.getLocationOnScreen(xy);
+			System.out.println("CaptureTool => XY: " + xy[0] + ", " + xy[1]);
 			//or viewObjects[i].curView.getLocationInWindow(xy);
 			if(xy[0] == x && xy[1] == y){
 				e_ID = viewObjects.get(i).returnID();
