@@ -2,6 +2,9 @@
 import os
 import sys
 sys.path.append(os.getcwd() + '/jars/guitar-lib/gui-capture-adr.jar')
+sys.path.append(os.getcwd() + '/jars/guitar-lib/gui-model-adr.jar')
+sys.path.append(os.getcwd() + '/jars/guitar-lib/gui-model-core.jar')
+sys.path.append(os.getcwd() + '/jars/gson-1.7.1.jar')
 from com.android.monkeyrunner import MonkeyRunner
 # User action Capture tool
 from edu.umd.cs.guitar.capture import ADRCaptureTool    

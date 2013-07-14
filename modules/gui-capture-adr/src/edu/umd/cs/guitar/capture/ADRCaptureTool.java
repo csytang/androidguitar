@@ -75,7 +75,7 @@ public class ADRCaptureTool {
 		ADRWindow gWindow;
 		String line;
 		int gWindowID=-1;
-		final int port = 10737;
+		final int port = 5554;
 		
 		int e_ID = -1;
 		String tst_e_ID = "";
