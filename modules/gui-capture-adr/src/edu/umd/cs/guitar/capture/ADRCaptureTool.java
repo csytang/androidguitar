@@ -91,7 +91,7 @@ public class ADRCaptureTool {
 					out = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));
 					in = new BufferedReader(new InputStreamReader(socket.getInputStream(), "utf-8"));
 					//We need to call getRootWindows to get the main window of the application
-					out.write("getRootWindows");
+					/*out.write("getRootWindows");
 					out.newLine();
 					out.flush();
 					System.out.println("CaptureTool => Waiting for Response to getRootWindwows");
@@ -101,17 +101,17 @@ public class ADRCaptureTool {
 					System.out.println("CaptureTool => Server-Response: " + line);
 					gWindow = new ADRWindow(line);
 					gWindowID = gWindow.window.getID();
-					System.out.println("CaptureTool => RootWindowID: " + gWindowID);
+					System.out.println("CaptureTool => RootWindowID: " + gWindowID);*/
 					
-					out.write("getChildren");
-					out.newLine();
-					out.write(String.valueOf(gWindowID));
+					out.write("getViews");
+					//out.newLine();
+					//out.write(String.valueOf(gWindowID));
 					out.newLine();
 					out.flush();
 					System.out.println("CaptureTool => Waiting for Response to getChildren");
 					while(!in.ready());
 					while ((line = in.readLine()) != null) {	
-						System.out.println("CaptureTool => Server-Ressponse: " + line);		
+						System.out.println("CaptureTool => Server-Response: " + line);		
 						Type vlst = new TypeToken<ADRView>() {}.getType();		
 						Gson gson = new Gson();
 
@@ -145,10 +145,12 @@ public class ADRCaptureTool {
 		//for loop starts
 		for(int i=0; i<viewObjects.size(); i++){
 			int[] xy = new int[2];
-			viewObjects.get(i).curView.getLocationOnScreen(xy);
+			ADRView v = viewObjects.get(i);
+			v.curView.getLocationOnScreen(xy);
 			System.out.println("CaptureTool => XY: " + xy[0] + ", " + xy[1]);
 			//or viewObjects[i].curView.getLocationInWindow(xy);
-			if(xy[0] == x && xy[1] == y){
+			if((x >= xy[0]) && (x <= xy[0] + viewObjects.get(i).curView.getWidth()) &&
+    (y >= xy[1]) && (y <= xy[1] + viewObjects.get(i).curView.getHeight())){
 				e_ID = viewObjects.get(i).returnID();
 				//or return viewObjects[i].returnViewId();
 			}else{
