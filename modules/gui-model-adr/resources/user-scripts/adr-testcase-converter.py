@@ -74,7 +74,7 @@ def main():
     print 'Finished successfully.'
 
     # At the end of main, we call another static java method to create and dump the test case file
-    ADRCaptureTool.output_testcase_file('some_name.tst')
+    ADRCaptureTool.output_testcase_file('user_testcase.tst')
    
 if __name__ == '__main__':
     main()
